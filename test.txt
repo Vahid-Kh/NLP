@@ -1,0 +1,1000 @@
+Conductors or conductive bodies characterised by the conductive materials; Selection of materials as conductors (superconductive or hyperconductive conductors, cables or transmission lines characterised by the materials H01B0012000000)
+mainly consisting of metals or alloys
+mainly consisting of carbon-silicon compounds, carbon, or silicon
+mainly consisting of other non-metallic substances
+oxides
+sulfides
+organic substances
+Conductive material dispersed in non-conductive inorganic material
+the conductive material comprising metals or alloys
+the conductive material comprising carbon-silicon compounds, carbon, or silicon
+Conductive material dispersed in non-conductive organic material
+the conductive material comprising metals or alloys
+the conductive material comprising carbon-silicon compounds, carbon, or silicon
+Insulators or insulating bodies characterised by the insulating materials; Selection of materials for their insulating or dielectric properties
+mainly consisting of inorganic substances
+mica
+asbestos
+quartz; glass; glass wool; slag wool; vitreous enamels
+metallic oxides (ceramics H01B0003120000)
+ceramics
+cements
+gases
+mainly consisting of organic substances
+liquids, e.g. oils (silicone oils H01B0003460000)
+hydrocarbons
+containing halogen in the molecules, e.g. halogenated oils
+asphalts; bitumens; pitches
+natural or synthetic rubbers
+plastics; resins; waxes
+natural resins
+waxes (silicone waxes H01B0003460000)
+condensation products of phenols with aldehydes or ketones
+condensation products of aldehydes with amines or amides
+epoxy resins
+polyesters; polyethers; polyacetals
+vinyl resins; acrylic resins (silicones H01B0003460000)
+silicones
+fibre-reinforced plastics, e.g. glass-reinforced plastics
+fibrous materials (fibre-reinforced plastics H01B0003470000)
+fabric
+wood; paper; pressboard (insulating paper per seD21H0027120000)
+hard paper; hard fabrics
+gases
+Non-insulated conductors or conductive bodies characterised by their form
+Single bars, rods, wires or strips; Bus-bars
+wound or coiled
+Single tubes
+Several wires or the like stranded in the form of a rope
+stranded around a space, insulating material, or dissimilar conducting material
+Braided wires or the like
+comprising conductive layers or films on insulating-supports
+comprising conductive material in insulating or poorly conductive material, e.g. conductive rubber (H01B0001140000, H01B0001200000 take precedence;insulating bodies with conductive admixtures H01B0017640000;conductive paints C09D0005240000)
+Insulated conductors or cables characterised by their form
+Disposition of insulation
+Flexible cables, conductors, or cords, e.g. trailing cables
+Extensible conductors or cables, e.g. self-coiling cords
+Flat or ribbon cables
+Contact cables, i.e. having conductors which may be brought into contact by distortion of the cable
+Floating cables
+Submarine cables
+Rigid-tube cables
+Protection against damage caused by external factors, e.g. sheaths or armouring
+by wear, mechanical force or pressure
+Metal tubes, e.g. lead sheaths
+Metal wires or tapes, e.g. made of steel
+Devices affording localised protection against mechanical force or pressure
+Reduction of losses in sheaths or armouring
+by moisture, corrosion, chemical attack or weather
+Preventing penetration of fluid into conductor or cable
+by completely or partially filling interstices in the cable
+using hygroscopic material or material swelling in the presence of liquid
+by extremes of temperature or by flame (H01B0007420000 takes precedence)
+using material resistant to flame
+with arrangements for reducing conductor losses when carrying ac, e.g. due to skin effect
+with arrangements for indicating defects, e.g. breaks or leaks
+with distinguishing or length marks
+with arrangements for facilitating removal of insulation
+with arrangements for facilitating mounting or securing
+with arrangements for heat dissipation or conduction
+Power cables
+with screens or conductive layers, e.g. for avoiding large potential gradients
+Concentric cables
+Gas-pressure cables; Oil-pressure cables; Cables for use in conduits under fluid pressure
+Communication cables or conductors
+Cables with twisted pairs or quads
+with pairs or quads mutually positioned to reduce cross-talk
+with means for reducing effects of electromagnetic or electrostatic disturbances, e.g. screens
+Screens specially adapted for reducing cross-talk
+Screens specially adapted for reducing interference from external sources
+Arrangements for exhibiting specific transmission characteristics
+Continuously inductively loaded cables, e.g. Krarup cables
+Cables, e.g. submarine cables, with coils or other devices incorporated during cable manufacture
+Coaxial cables; Analogous cables having more than one inner conductor within a common outer conductor
+Cables having a multiplicity of coaxial lines
+Cables including at least one electrical conductor together with optical fibres
+Superconductive or hyperconductive conductors, cables or transmission lines (superconductors characterised by the ceramic-forming technique or the ceramic composition C04B0035000000)
+characterised by their form
+Single wire
+Films or wires on bases or cores
+Stranded or braided wires
+Multi-filaments embedded in normal conductors
+Hollow conductors
+characterised by the disposition of thermal insulation
+characterised by cooling
+Apparatus or processes specially adapted for manufacturing conductors or cables
+for manufacturing rigid-tube cables
+for manufacturing extensible conductors or cables
+for manufacturing wire harnesses
+for manufacturing co-axial cables (applying discontinuous insulation H01B0013200000)
+Stranding-up
+Mutually-positioning pairs or quads to reduce cross-talk
+Insulating conductors or cables (H01B0013320000 takes precedence)
+by winding
+by longitudinal lapping
+by applying loose fibres
+by extrusion
+by passing through, or dipping in, a liquid bath; by spraying
+Applying discontinuous insulation, e.g. discs, beads
+for concentric or coaxial cables
+Sheathing; Armouring; Screening; Applying other protective layers (H01B0013320000 takes precedence)
+by extrusion
+by winding, braiding or longitudinal lapping
+Applying continuous inductive loading, e.g. Krarup loading
+Drying; Impregnating (H01B0013320000 takes precedence)
+Filling or coating with impervious material
+for marking conductors or cables
+Apparatus or processes for salvaging material from cables (insulated conductors or cables with arrangements for facilitating removal of insulation H01B0007380000;methods or apparatus specially adapted for removing insulation from conductors H02G0001120000)
+Insulators or insulating bodies characterised by their form
+Suspension insulators; Strain insulators
+Chains; Multiple chains
+Fastening of insulator to support, to conductor, or to adjoining insulator
+by cap-and-bolt
+by intermediate link
+Special features of strain insulators
+Supporting insulators (pin insulators H01B0017200000;apertured insulators H01B0017240000)
+Fastening of insulators to support, to conductor, or to adjoining insulator
+for very heavy conductors, e.g. bus-bars, rails
+Pin insulators
+Fastening of conductors to insulator
+Insulators apertured for fixing by nail, screw, wire, or bar, e.g. diabolo, bobbin
+Lead-in insulators; Lead-through insulators
+Capacitor type
+Sealing
+Single insulators consisting of two or more dissimilar insulating bodies
+Insulators containing liquid, e.g. oil
+Insulators having evacuated or gas-filled spaces
+Fittings, e.g. caps; Fastenings therefor
+Cementless fittings
+Means for obtaining improved distribution of voltage (capacitor-type lead-through insulators H01B0017280000); Protection against arc discharges
+Structural association of insulators with corona rings
+Means for providing an external arc-discharge path
+over chains or other serially-arranged insulators
+with surfaces specially treated for preserving insulating properties, e.g. for protection against moisture, dirt, or the like
+having cleaning devices (H01B0017540000 takes precedence)
+having heating or cooling devices
+Insulating bodies
+Tubes, sleeves, beads or bobbins through which the conductor passes
+Composite insulating bodies
+Insulating-layers or insulating-films on metal bodies
+with conductive admixtures inserts or layers
+Joining insulating bodies together, e.g. by bonding
+Apparatus or processes specially adapted for manufacturing insulators or insulating bodies
+Drying; Impregnating
+Treating the surfaces, e.g. applying coatings
+S
+Details
+Mounting; Supporting
+the base extending along, and imparting rigidity or reinforcement to, the resistive element (H01C0001016000 takes precedence;the resistive element being formed in two or more coils or loops as a spiral, helical, or toroidal winding H01C0003180000, H01C0003200000;the resistive element being formed as one or more layers or coatings on a base H01C0007000000)
+the resistor being suspended between, and being supported by, two supporting sections (H01C0001016000 takes precedence)
+with compensation for resistor expansion or contraction
+Housing; Enclosing; Embedding; Filling the housing or enclosure
+the housing or enclosure being openable or separable from the resistive element
+the housing or enclosure being hermetically sealed (H01C0001028000, H01C0001032000, H01C0001034000 take precedence)
+with gaseous or vacuum spacing between the resistive element and the housing or casing
+the resistive element being embedded in insulation with outer enclosing sheath
+with powdered insulation
+plural layers surrounding the resistive element (H01C0001028000 takes precedence)
+the housing or enclosure being formed as coating or mould without outer sheath (H01C0001032000 takes precedence)
+on wound resistive element
+Arrangements of distinguishing marks, e.g. colour coding
+Electrostatic or electromagnetic shielding arrangements
+Cooling, heating or ventilating arrangements 
+using forced fluid flow
+using self-cooling, e.g. fins, heat sinks
+Arrangements of current collectors
+of fluid contacts
+Terminals or tapping points specially adapted for resistors; Arrangements of terminals or tapping points on resistors
+the terminals or tapping points being coated on the resistive element
+the terminals or tapping points being welded or soldered
+the resistive element surrounding the terminal
+the terminals embracing or surrounding the resistive element (H01C0001142000 takes precedence)
+Resistor networks not otherwise provided for
+Non-adjustable metal resistors made of wire or ribbon, e.g. coiled, woven, or formed as grids
+arranged or constructed for reducing self-induction, capacitance, or variation with frequency
+Iron-filament ballast resistors; Other resistors having variable temperature coefficient
+Flexible or folding resistors, whereby such a resistor can be looped or collapsed upon itself
+Dimension or characteristic of resistive element changing gradually or in discrete steps from one terminal to another
+the resistive element having zig-zag or sinusoidal configuration
+lying in one plane
+the resistive element being formed in two or more coils or loops continuously wound as a spiral, helical, or toroidal winding (H01C0003020000-H01C0003120000 take precedence)
+including two or more distinct wound elements, or two or more winding patterns
+wound on a flat or ribbon base (H01C0003160000 takes precedence)
+wound on cylindrical or prismatic base (H01C0003160000 takes precedence)
+Non-adjustable resistors formed as one or more layers or coatings; Non-adjustable resistors made from powdered conducting material or powdered semi-conducting material with or without insulating material (consisting of loose powdered or granular material H01C0008000000;resistors with a potential-jump barrier or surface barrier, e.g. field effect resistors, H01L0029000000;semiconductor devices sensitive to electromagnetic or corpuscular radiation, e.g. photoresistors, H01L0031000000;magnetic field controlled resistors H01L0043080000;bulk negative resistance effect devices H01L0047000000)
+having positive temperature coefficient
+having negative temperature coefficient
+including means to minimise changes in resistance with changes in temperature
+voltage responsive, i.e. varistors
+Varistor boundary, e.g. surface layers (H01C0007120000 takes precedence)
+Varistor cores (H01C0007120000 takes precedence)
+Metal oxide
+ZnO type
+Titanium dioxide- or titanate type
+Carbide, e.g. SiC type
+Overvoltage protection resistors; Arresters
+current-responsive
+comprising a plurality of layers stacked between terminals
+the resistive layer or coating being tapered
+Elongated resistive element being bent or curved, e.g. sinusoidal, helical
+Non-adjustable resistors consisting of loose powdered or granular conducting, or powdered or granular semi-conducting material
+Coherers or like imperfect resistors for detecting electromagnetic waves
+Overvoltage protection resistors; Arresters
+Adjustable resistors
+Liquid resistors
+with specified mathematical relationship between movement of resistor actuating means and value of resistance, other than direct proportional relationship
+adjustable by short-circuiting different amounts of the resistive element
+with intervening conducting structure between the resistive element and the short-circuiting means, e.g. taps
+adjustable by mechanical pressure or force
+by changing surface pressure between resistive masses or resistive and conductive masses, e.g. pile type
+adjustable by auxiliary driving means
+including plural resistive elements
+including coarse and fine resistive elements
+Contact structure or movable resistive elements being ganged
+resistive-element dimensions changing gradually in one direction, e.g. tapered resistive element (H01C0010040000 takes precedence)
+resistive-element dimensions changing in a series of discrete, progressive steps
+the contact moving along turns of a helical resistive element, or vice versa
+resistive element moving (H01C0010160000, H01C0010240000 take precedence)
+the contact rocking or rolling along resistive element or taps
+the contact sliding along resistive element
+the contact moving in an arcuate path
+the contact or the associated conducting structure riding on collector formed as a ring or portion thereof
+structurally combined with switching arrangements
+the contact moving along a straight path
+screw-operated
+the contact bridging and sliding along resistive element and parallel conducting bar or collector
+the contact bridging and sliding along resistive element and parallel conducting bar or collector (H01C0010420000 takes precedence)
+Arrangements of fixed resistors with intervening connectors, e.g. taps (H01C0010280000, H01C0010300000 take precedence)
+including contact movable in an arcuate path
+structurally combined with switching arrangement (H01C0010360000 takes precedence)
+Non-adjustable liquid resistors
+Resistors not provided for elsewhere
+Structural combinations of resistors
+Apparatus or processes specially adapted for manufacturing resistors (providing fillings for housings or enclosures H01C0001020000;reducing insulation surrounding a resistor to powder H01C0001030000;manufacture of thermally variable resistors H01C0007020000, H01C0007040000)
+adapted for manufacturing resistors with envelope or housing (apparatus or processes for filling or compressing insulating material in heating element tubes H05B0003520000)
+adapted for winding the resistive element
+adapted for coating resistive material on a base
+by thick-film techniques, e.g. serigraphy
+by resistor foil bonding, e.g. cladding
+by thin-film techniques
+by vapour deposition
+by flame spraying
+by sputtering
+by chemical deposition
+using electric current
+without using electric current
+by pyrolytic processes
+adapted for trimming
+by opening or closing resistor tracks of predetermined resistive values
+Adjusting the temperature coefficient; Adjusting value of resistance by adjusting temperature coefficient
+Initial adjustment of potentiometer parts for calibration
+by removing or adding resistive material (H01C0017230000, H01C0017232000, H01C0017235000 take precedence)
+by laser
+by mechanical means, e.g. sand-blasting, cutting, ultrasonic treatment
+by converting resistive material
+adapted for applying terminals
+adapted for baking
+ INDUCTANCES; TRANSFORMERS; SELECTION OF MATERIALS FOR THEIR MAGNETIC PROPERTIES
+Magnets or magnetic bodies characterised by the magnetic materials therefor; Selection of materials for their magnetic properties
+of inorganic materials (H01F0001440000 takes precedence)
+characterised by their coercivity
+of hard-magnetic materials
+metals or alloys
+Alloys characterised by their composition
+containing rare earth metals
+and magnetic transition metals, e.g. SmCo5
+and IIIa elements, e.g. Nd2Fe14B
+and IVa elements, e.g. Gd2Fe14C
+and Va elements, e.g. Sm2Fe17N2
+in the form of particles, e.g. powder (H01F0001047000 takes precedence)
+pressed, sintered, or bound together
+mixtures of metallic and non-metallic particles; metallic particles having oxide skin
+non-metallic substances, e.g. ferrites
+in the form of particles
+in a bonding agent
+Flexible bodies
+of soft-magnetic materials
+metals or alloys
+Alloys characterised by their composition
+Amorphous metallic alloys, e.g. glassy metals
+in the form of sheets (H01F0001147000 takes precedence)
+with insulating coating
+in the form of particles, e.g. powder (H01F0001147000 takes precedence)
+pressed, sintered, or bound together
+the particles being insulated
+by macromolecular organic substances
+dispersed or suspended in a bonding agent
+mixtures of metallic and non-metallic particles; metallic particles having oxide skin
+non-metallic substances, e.g. ferrites
+in the form of particles
+in a bonding agent
+Flexible bodies
+amorphous, e.g. amorphous oxides
+of magnetic semiconductor materials, e.g. CdCr2S4
+of organic or organo-metallic materials (H01F0001440000 takes precedence)
+of magnetic liquids, e.g. ferrofluids
+Cores, yokes or armatures
+made from sheets
+made from strips or ribbons
+made from wires
+made from powder
+Composite arrangements of magnetic circuits
+Magnetic shunt paths
+Constrictions; Gaps, e.g. air-gaps (in magnetic shunt paths H01F0003120000)
+Coils (superconducting coils H01F0006060000;fixed inductances of the signal type H01F0017000000)
+wound on non-magnetic supports, e.g. formers
+Arrangements of electric connections to coils, e.g. leads
+Insulation of windings
+Superconducting magnets; Superconducting coils
+Quenching; Protection arrangements during quenching
+Cooling
+Coils, e.g. winding, insulating, terminating or casing arrangements therefor
+Magnets (superconducting magnets H01F0006000000)
+Permanent magnets
+Means for releasing the attractive force
+Electromagnets; Actuators including electromagnets
+with armatures
+specially adapted for ac
+reducing or eliminating the effects of eddy currents
+having anti-chattering arrangements
+Guiding or setting position of armatures, e.g. retaining armatures in their end position
+by permanent magnet
+by ancillary coil
+by mechanical latch, e.g. detent
+Supporting or mounting
+Assembling
+Encapsulating, encasing or sealing
+of armatures
+characterised by pulling-force characteristic
+Pivoting armatures (H01F0007170000 takes precedence)
+Rectilinearly-movable armatures (H01F0007170000 takes precedence)
+Pivoting and rectilinearly-movable armatures
+Circuit arrangements for obtaining desired operating characteristics, e.g. for slow operation, for sequential energisation of windings, for high-speed energisation of windings
+without armatures
+Thin magnetic films, e.g. of one-domain structure
+characterised by the coupling or physical contact with connecting or interacting conductors
+characterised by magnetic layers (applying magnetic films to substrates H01F0041140000)
+characterised by the composition
+being metals or alloys
+Amorphous metallic alloys, e.g. glassy metals
+containing iron or nickel (H01F0010130000, H01F0010160000 take precedence)
+containing cobalt (H01F0010130000 takes precedence)
+being compounds
+Amorphous compounds
+Magnetic semiconductor compounds
+Ferrites
+Orthoferrites
+Garnets
+characterised by the substrate or intermediate layers (H01F0010320000 takes precedence)
+characterised by the composition of the substrate
+characterised by the composition of intermediate layers
+Spin-exchange-coupled multilayers, e.g. nanostructured superlattices
+Apparatus or processes for magnetising or demagnetising
+Fixed inductances of the signal type
+without magnetic core
+with ceramic former
+with magnetic core
+with core substantially closed in itself, e.g. toroid
+Loading coils for telecommunication circuits
+Fixed transformers or mutual inductances of the signal type (H01F0036000000 takes precedence)
+Audio-frequency transformers or mutual inductances, i.e. not suitable for handling frequencies considerably beyond the audio range
+Transformers or mutual inductances suitable for handling frequencies considerably beyond the audio range
+Broad-band transformers, e.g. suitable for handling frequencies well down into the audio range
+Transformers having magnetic bias, e.g. for handling pulses
+Variable inductances or transformers of the signal type (H01F0036000000 takes precedence)
+continuously variable, e.g. variometers
+by relative movement of turns or parts of windings
+by movement of core or part of core relative to the windings as a whole
+by varying the permeability of the core, e.g. by varying magnetic bias
+by means of a movable shield
+discontinuously variable, e.g. tapped
+Details of transformers or inductances, in general
+Casings
+Leading of conductors or axles through casings, e.g. for tap-changing arrangements
+Mounting, supporting, or suspending transformers, reactors, or choke coils
+Cooling; Ventilating
+Liquid cooling
+Oil cooling
+Expansion chambers; Oil conservators; Gas cushions; Arrangements for purifying, drying, or filling
+Water cooling
+by evaporating liquids
+Cooling by special gases or non-ambient air
+Cooling by heat conduction through solid or powdered fillings
+Corrosion protection
+Magnetic cores
+made from sheets, e.g. grain-oriented (H01F0027260000 takes precedence)
+made from strips or ribbons (H01F0027260000 takes precedence)
+made from particles (H01F0027260000 takes precedence)
+Fastening parts of the core together; Fastening or mounting the core on casing or support
+Coils; Windings; Conductive connections
+Terminals; Tapping arrangements
+Fastening or clamping coils, windings, or parts thereof together; Fastening or mounting coils or windings on core, casing, or other support
+Insulating of coils, windings, or parts thereof
+Arrangements for noise damping
+Special means for preventing or reducing unwanted electric or magnetic effects, e.g. no-load losses, reactive currents, harmonics, oscillations, leakage fields
+Electric or magnetic shields or screens (movable for varying inductance H01F0021100000)
+Auxiliary core members; Auxiliary coils or windings
+Structural association with built-in electric component, e.g. fuse
+Circuits specially adapted for the purpose of modifying, or compensating for, electric characteristics of transformers, reactors or choke coils
+Variable transformers or inductances not covered by group H01F0021000000
+with tappings on coil or winding; with provision for rearrangement or interconnection of windings
+having provision for tap-changing without interrupting the load current
+with current collector gliding or rolling on or along winding
+with core, coil, winding, or shield movable to offset variation of voltage or phase shift, e.g. induction regulators
+having movable part of magnetic circuit
+having movable coil, winding, or part thereof; having movable shield
+with variable magnetic bias
+Fixed transformers not covered by group H01F0019000000
+Auto-transformers
+having two or more secondary windings, each supplying a separate load, e.g. for radio set power supplies
+characterised by the structure
+without magnetic core
+Single-phase transformers (H01F0030160000 takes precedence)
+Two-phase, three-phase or polyphase transformers
+for changing the number of phases
+Toroidal transformers
+Transformers with superconductive windings or with windings operating at cryogenic temperatures
+Fixed inductances not covered by group H01F0017000000
+Adaptations of transformers or inductances for specific applications or functions
+for non-linear operation
+for frequency changing
+for changing the wave shape
+High-leakage transformers or inductances
+Ballasts, e.g. for discharge lamps
+Ignition, e.g. for IC engines
+Inductive couplings
+Cascade transformers, e.g. for use with extra high tension
+Rotary transformers
+Instrument transformers
+for single phase ac
+Voltage transformers
+Constructions
+Current transformers
+Constructions
+Circuit arrangements
+Combined voltage and current transformers
+Constructions
+for polyphase ac
+for dc
+Flyback transformers
+Apparatus or processes specially adapted for manufacturing or assembling magnets, inductances or transformers; Apparatus or processes specially adapted for manufacturing materials characterised by their magnetic properties
+for manufacturing cores, coils or magnets (H01F0041140000 takes precedence)
+for manufacturing coils
+Coil winding
+Winding flat conductive wires or sheets
+with insulation
+Winding non-flat conductive wires, e.g. rods, cables or cords
+with insulation
+in the form of strip material
+Winding two or more wires, e.g. bifilar winding
+Twisting
+Winding coils of special form (winding conductors onto closed formers or cores H01F0041080000)
+Winding onto elongate formers
+Winding flat coils
+Forming taps or terminals while winding, e.g. by wrapping or soldering the wire onto pins, or by directly forming terminals from the wire
+Deforming the cross section or shape of the winding material while winding
+Measuring electrical characteristics while winding
+Winding conductors onto closed formers or cores, e.g. threading conductors through toroidal cores
+Devices for guiding or positioning the winding material on the former
+for forming pancake coils
+in a special configuration on the former, e.g. orthocyclic coils or open mesh coils
+using revolving flyers
+Winding machines having two or more work holders or formers
+Turrets; Turntables
+Tensioning or braking devices
+Dispensing or feeding devices
+Mandrels;  Formers
+Connecting leads to windings
+Insulating of windings
+for applying magnetic films to substrates
+the magnetic material being applied in the form of particles, e.g. by serigraphy (H01F0041180000 takes precedence)
+by cathode sputtering
+by evaporation
+Heat treatment; Thermal decomposition; Chemical vapour deposition
+from liquids
+using electric currents
+by liquid phase epitaxy
+for applying nanostructures, e.g. by molecular beam epitaxy (MBE)
+for applying conductive, insulating or magnetic material on a magnetic film
+in patterns, e.g. by lithography
+RS; CAPACITORS, RECTIFIERS, DETECTORS, SWITCHING DEVICES, LIGHT-SENSITIVE OR TEMPERATURE-SENSITIVE DEVICES OF THE ELECTROLYTIC TYPE (selection of specified materials as dielectric H01B0003000000;capacitors with potential-jump or surface barrier H01L0029000000)
+Details of capacitors not covered by a single one of groups H01G0004000000-H01G0011000000
+Mountings
+specially adapted for mounting on a chassis
+specially adapted for mounting on a printed-circuit support
+Cooling arrangements; Heating arrangements; Ventilating arrangements
+Housing; Encapsulation
+Protection against corrosion (H01G0002100000 takes precedence)
+Protection against electric or thermal overload (by cooling H01G0002080000)
+with fusing elements
+with breakable contacts
+Arrangements for preventing discharge from edges of electrodes
+Electrostatic or magnetic shielding
+Distinguishing marks, e.g. colour coding
+Fixed capacitors; Processes of their manufacture (electrolytic capacitors H01G0009000000)
+Details
+Electrodes
+Selection of materials
+Form of self-supporting electrodes
+Form of non-self-supporting electrodes
+Special provisions for self-healing
+Dielectrics
+Gas or vapour dielectrics
+Liquid dielectrics
+Solid dielectrics
+Inorganic dielectrics
+Metal-oxide dielectrics
+Ceramic dielectrics
+Organic dielectrics
+of fibrous material, e.g. paper
+of synthetic material, e.g. derivatives of cellulose (H01G0004160000 takes precedence)
+using combinations of dielectrics from more than one of groups H01G0004020000-H01G0004060000 (H01G0004120000 takes precedence)
+impregnated
+Housing; Encapsulation
+Terminals
+electrically connecting two or more layers of a stacked or rolled capacitor
+leading through the housing, i.e. lead-through
+the capacitive element surrounding the terminal
+Tabs between the layers of a rolled electrode
+the terminals embracing or surrounding the capacitive element, e.g. caps (H01G0004252000 takes precedence)
+the terminals being coated on the capacitive element (H01G0004232000 takes precedence)
+Means for correcting the capacitance value
+Temperature compensation means
+Folded capacitors
+Tubular capacitors
+Stacked capacitors (H01G0004330000 takes precedence)
+Wound capacitors
+Thin- or thick-film capacitors
+Feed-through capacitors or anti-noise capacitors
+Multiple capacitors, i.e. structural combinations of fixed capacitors
+Structural combinations of fixed capacitors with other electric elements not covered by this subclass, the structure mainly consisting of a capacitor, e.g. RC combinations
+Capacitors in which the capacitance is varied by mechanical means, e.g. by turning a shaft; Processes of their manufacture
+Details
+Electrodes
+at least one of the electrodes being a displaceable liquid or powder
+Dielectrics
+Housing; Encapsulation
+Current collectors
+Temperature compensation
+Means for correcting the capacitance characteristics
+using variation of effective area of electrode
+due to rotation of flat or substantially flat electrodes
+becoming active in succession
+due to rotation of helical electrodes
+due to rotation of part-cylindrical, conical, or spherical electrodes
+due to longitudinal movement of electrodes
+using variation of distance between electrodes
+due to change in inclination, e.g. by flexing, by spiral wrapping
+Multiple capacitors, e.g. ganged
+Structural combinations of variable capacitors with other electric elements not covered by this subclass, the structure mainly consisting of a capacitor, e.g. RC combinations
+Capacitors in which the capacitance is varied by non-mechanical means; Processes of their manufacture
+Electrets, i.e. having a permanently-polarised dielectric
+having a dielectric selected for the variation of its permitivity with applied temperature
+having a dielectric selected for the variation of its permitivity with applied voltage, i.e. ferroelectric capacitors (electrets H01G0007020000)
+Electrolytic capacitors, rectifiers, detectors, switching devices, light-sensitive or temperature-sensitive devices; Processes of their manufacture
+Details
+Terminals
+specially adapted for solid capacitors
+Diaphragms; Separators
+Electrolytes; Absorbents
+Solid electrolytes (H01G0011540000 takes precedence)
+Organic semiconducting electrolytes, e.g. TCNQ
+Inorganic semiconducting electrolytes, e.g. MnO2
+Liquid electrolytes, e.g. impregnating materials (H01G0011540000 takes precedence)
+Electrodes
+characterised by the material (H01G0011220000 takes precedence)
+based on aluminium
+characterised by their structure (H01G0011220000 takes precedence)
+Sintered electrodes
+Etched foil electrodes
+Mounting in containers
+Dielectric layers
+Housing; Encapsulation
+Sealing, e.g. of lead-in wires
+Vents or other means allowing expansion
+Structural combinations for modifying, or compensating for, electric characteristics of electrolytic capacitors
+Liquid electrolytic capacitors (H01G0011000000 takes precedence)
+Solid electrolytic capacitors (H01G0011000000 takes precedence)
+specially adapted for use as rectifiers or detectors (H01G0009220000 takes precedence)
+Self-interrupters
+Light-sensitive devices
+Temperature-sensitive devices
+Devices using combined reduction and oxidation, e.g. redox arrangement or solion
+Structural combinations of electrolytic capacitors, rectifiers, detectors, switching devices, light-sensitive or temperature-sensitive devices with each other
+Structural combinations of electrolytic capacitors, rectifiers, detectors, switching devices with other electric components not covered by this subclass
+Hybrid capacitors, i.e. capacitors having different positive and negative electrodes; Electric double-layer [EDL] capacitors; Processes for the manufacture thereof or of parts thereof
+using combined reduction-oxidation reactions, e.g. redox arrangement or solion
+Hybrid capacitors
+with one of the electrodes allowing ions to be reversibly doped thereinto, e.g. lithium-ion capacitors [LICs]
+Structural combinations, e.g. assembly or connection, of hybrid or EDL capacitors with other electric components, at least one hybrid or EDL capacitor being the main component
+Multiple hybrid or EDL capacitors, e.g. arrays or modules (housings, cases, encapsulations or mountings thereof H01G0011780000)
+Stacked hybrid or EDL capacitors
+Arrangements or processes for adjusting or protecting hybrid or EDL capacitors (emergency protective circuit arrangements specially adapted for capacitors, and effecting automatic switching in the event of an undesired change from normal working conditions H02H0007160000;emergency protective circuit arrangements for limiting excess current or voltages without disconnection H02H0009000000)
+against electric overloads, e.g. including fuses
+against thermal overloads, e.g. heating, cooling or ventilating
+Reformation or processes for removal of impurities, e.g. scavenging
+Electrodes
+characterised by structural features of the materials making up or comprised in the electrodes, e.g. form, surface area or porosity; characterised by the structural features of powders or particles used therefor
+characterised by their structure, e.g. multi-layered, porosity or surface features
+arranged or disposed on a current collector; Layers or phases between electrodes and current collectors, e.g. adhesives
+characterised by their material
+Carbon-based
+characterised by carbonisation or activation of carbon
+Nanostructures, e.g. nanofibres, nanotubes or fullerenes
+Carbon pastes or blends; Binders or additives therein
+Fibres
+Powders or particles, e.g. composition thereof
+Raw materials therefor, e.g. resins or coal
+Metal oxides
+Conductive polymers
+specially adapted for lithium-ion capacitors, e.g. for lithium-doping or for intercalation
+Separators
+Electrolytes
+Solid electrolytes, e.g. gels; Additives therein
+Liquid electrolytes
+characterised by the solvent
+characterised by the solute, e.g. salts, anions or cations therein
+characterised by additives
+Current collectors
+characterised by their material
+characterised by their structure
+specially adapted for integration in multiple or stacked hybrid or EDL capacitors
+Terminals, e.g. extensions of current collectors
+specially adapted for integration in multiple or stacked hybrid or EDL capacitors
+Cases; Housings; Encapsulations; Mountings
+Gaskets; Sealings
+Fixing or assembling a capacitive element in a housing, e.g. mounting electrodes, current collectors or terminals in containers or encapsulations
+Processes for the manufacture of hybrid or EDL capacitors, or components thereof
+specially adapted for electrodes (carbonisation or activation of carbon for the manufacture of electrodes H01G0011340000)
+Apparatus specially adapted for manufacturing capacitors; Processes specially adapted for manufacturing capacitors not provided for in groups H01G0004000000-H01G0011000000
+Machines for winding capacitors
+Drying; Impregnating
+with provision for removing metal surfaces
+Structural combinations of capacitors or other devices covered by at least two different main groups of this subclass with each other (involving at least one hybrid or electric double-layer [EDL] capacitor as the main component H01G0011080000)
+Structural combinations of capacitors or other devices covered by at least two different main groups of this subclass with other electric elements, not covered by this subclass, e.g. RC combinations
+ SWITCHES; RELAYS; SELECTORS; EMERGENCY PROTECTIVE DEVICES (contact cables H01B0007100000; electrolytic self-interrupters H01G0009180000; emergency protective circuit arrangements H02H; switching by electronic means without contact-making H03K0017000000)
+Electric switches
+Contacts (liquid contacts H01H0029040000)
+characterised by the material thereof
+Composite material
+having a noble metal as the basic material
+and containing carbides
+and containing oxides
+having copper as the basic material
+containing carbon particles or fibres
+comprising conducting material dispersed in an elastic support or binding material
+Co-operating contacts of different material
+characterised by the shape or structure of the contact-making surface, e.g. grooved
+wetted with mercury
+Laminated contacts with divided contact surface
+characterised by the manner in which co-operating contacts engage
+by abutting
+by rolling; by wrapping; Roller or ball contacts
+with subsequent sliding
+Bridging contacts
+with rigid pivoted member carrying the moving contact
+with resilient mounting
+with spring blade support
+Assembly of three or more contact-supporting spring blades
+within supporting guides
+Self-aligning contacts
+with provision for adjusting position of contact relative to its co-operating contact
+by sliding
+Plug-and-socket contacts
+Contact mounted so that its contact-making surface is flush with adjoining insulation
+Knife-and-clip contacts
+with resilient mounting
+self-aligning contacts
+with provision for adjusting position of contact relative to its co-operating contact
+Means for increasing contact pressure, preventing vibration of contacts, holding contacts together after engagement, or biasing contacts to the open position
+Contacts adapted to act as latches
+by magnetic force
+Contact arrangements for providing make-before-break operation, e.g. for on-load tap-changing
+Electric connections to or between contacts; Terminals
+Auxiliary means structurally associated with the switch for cleaning or lubricating contact-making surfaces (cleaning by normal sliding of contacts H01H0001180000, H01H0001360000)
+Heating or cooling of contacts
+Protective enclosures, baffle plates, or screens for contacts
+Contacts sealed in an evacuated or gas-filled envelope, e.g. magnetic dry-reed contacts
+Mechanisms for operating contacts (thermal actuating or release means H01H0037020000)
+Operating parts, i.e. for operating driving mechanism by a mechanical force external to the switch
+Levers (tumblers H01H0023140000)
+Means for securing to shaft of driving mechanism
+Turn knobs
+Means for securing to shaft of driving mechanism
+Push-buttons
+adapted for operation by a part of the human body other than the hand, e.g. by foot
+adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. for a door switch, a limit switch, a floor-levelling switch of a lift
+the movement in one direction being intentionally by hand, e.g. for setting automatically cancelled trafficators
+wherein an auxiliary movement thereof, or of an attachment thereto, is necessary before the main movement is possible or effective, e.g. for unlatching, for coupling
+Power arrangements internal to the switch for operating the driving mechanism
+using pneumatic or hydraulic actuator
+using dynamo-electric motor (for storing energy in a spring motor H01H0003300000)
+using electromagnet (for storing energy in a spring motor H01H0003300000;for operating relays H01H0045000000)
+using spring motor
+Driving mechanisms, i.e. for transmitting driving force to the contacts (snap-action arrangements H01H0005000000;introducing a predetermined time delay H01H0007000000)
+using ratchet
+using belt, chain, or cord
+using spring or other flexible shaft coupling
+using friction, toothed, or screw-and-nut gearing
+using cam or eccentric
+using Geneva movement
+using rod or lever linkage, e.g. toggle
+using lost-motion device
+with indexing or locating means, e.g. indexing by ball and spring
+with means to ensure stopping at intermediate operative positions
+Mechanisms for coupling or uncoupling operating parts, driving mechanisms, or contacts
+using electromagnetic clutch
+using friction, toothed, or other mechanical clutch
+Mechanical arrangements for preventing or damping vibration or shock
+Lubricating means structurally associated with the switch (for lubricating contact-making surfaces H01H0001600000)
+Snap-action arrangements, i.e. in which during a single opening operation or a single closing operation energy is first stored and then released to produce or assist the contact movement
+Energy stored by the attraction or repulsion of magnetic parts
+Energy stored by deformation of elastic members (by deformation of bimetallic element in thermally-actuated switches H01H0037540000)
+by compression or extension of coil springs
+one end of spring transmitting movement to the contact member when the other end is moved by the operating part
+one end of spring being fixedly connected to the stationary or movable part of the switch, and the other end reacting with a movable or stationary rigid member respectively through pins, cams, toothed, or other shaped surfaces
+having two or more snap-action motions in succession
+by twisting of torsion members
+with auxiliary means for temporarily holding parts until torsion member is sufficiently strained
+by flexing of blade springs
+single blade moved across dead-centre position
+blade spring with at least one snap-acting leg and at least one separate contact-carrying or contact-actuating leg
+having three legs
+having two or more snap-action motions in succession
+two separate blade springs forming a toggle
+by buckling of disc springs
+Devices for introducing a predetermined time delay between the initiation of the switching operation and the opening or closing of the contacts (time or time-programme switches H01H0043000000)
+with fluid timing means
+with dash-pots
+with flies, i.e. fan governors
+with thermal timing means
+with timing by mechanical speed-control devices
+by escapement
+mechanical
+electromagnetic
+Devices for ensuring operation of the switch at a predetermined point in the ac cycle (circuit arrangements H01H0009560000)
+Details of switching devices, not covered by groups H01H0001000000-H01H0007000000
+Bases, casings, or covers (accommodating more than one switch or a switch and another electrical component H02B0001260000)
+Dustproof, splashproof, drip-proof, waterproof, or flameproof casings
+Casing of switch constituted by a handle serving a purpose other than the actuation of the switch, e.g. by the handle of a vacuum cleaner
+Arrangements to facilitate replacement of switch, e.g. cartridge housing
+Adaptation for built-in fuses (mounting switch and fuse separately on, or in, common support H02B0001180000)
+Means for earthing parts of switch not normally conductively connected to the contacts
+Adaptation for built-in safety spark gaps
+Indicators for switching condition, e.g. "on" or "off"
+Distinguishing marks on switches, e.g. for indicating switch location in the dark; Adaptation of switches to receive distinguishing marks
+Interlocking, locking, or latching mechanisms
+for interlocking between casing, cover, or protective shutter and mechanism for operating contacts
+for interlocking two or more parts of the mechanism for operating contacts
+for interlocking two or more switches (by a detachable member H01H0009280000)
+for locking switch parts by a key or equivalent removable member (switches operated by a key H01H0027000000;locking by removable part of two-part coupling device H01R)
+Means for extinguishing or preventing arc between current-carrying parts
+Insulating body insertable between contacts
+Stationary parts for restricting or subdividing the arc, e.g. barrier plate
+Metal parts
+Auxiliary contacts on to which the arc is transferred from the main contacts (using arcing-horns H01H0009460000)
+Multiple main contacts for the purpose of dividing the current through, or potential drop along, the arc
+Impedances connected with contacts
+using blow-out magnet
+using arcing horns (using blow-out magnet H01H0009440000)
+Means for preventing discharge to non-current-carrying parts, e.g. using corona ring
+Means for detecting the presence of an arc or discharge
+Cooling of switch parts (cooling of contacts H01H0001620000)
+Circuit arrangements not adapted to a particular application of the switching device and for which no provision exists elsewhere
+for ensuring operation of the switch at a predetermined point in the ac cycle
+Apparatus or processes specially adapted for the manufacture of electric switches (processes specially adapted for manufacture of rectilinearly movable switches having a plurality of operating members associated with different sets of contacts, e.g. keyboards, H01H0013880000)
+for mercury switches
+of switch contacts
+Fixing of contacts to carrier
+Switches having rectilinearly-movable operating part or parts adapted for pushing or pulling in one direction only, e.g. push-button switch (wherein the operating part is flexible H01H0017000000)
+Details
+Cases; Covers
+Dustproof, splashproof, drip-proof, waterproof, or flameproof casings
+Casing of switch constituted by a handle serving a purpose other than the actuation of the switch
+Bases; Stationary contacts mounted thereon
+Movable parts; Contacts mounted thereon
+Operating parts, e.g. push-button
+adapted for operation by a part of the human body other than the hand, e.g. by foot
+adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift
+Driving mechanisms
+acting with snap action (depending upon deformation of elastic members H01H0013260000)
+with means for introducing a predetermined time delay
+Snap-action arrangements depending upon deformation of elastic members
+using compression or extension of coil springs
+one end of spring transmitting movement to the contact member when the other end is moved by the operating part
+one end of spring being fixedly connected to the stationary or movable part of the switch and the other end reacting with a movable or stationary rigid member respectively through pins, cams, toothed, or other shaped surfaces
+having two or more snap-action motions in succession
+using flexing of blade springs
+Single blade moved across dead-centre position
+Blade spring with at least one snap-acting leg and at least one separate contactcarrying or contact-actuating leg
+having three legs
+having two or more snap-action motions in succession
+two separate blade springs forming a toggle
+using buckling of disc springs
+having a single operating member
+the contact returning to its original state immediately upon removal of operating force, e.g. bell push switch
+the contact returning to its original state a predetermined time interval after removal of operating force, e.g. for staircase lighting
+the contact returning to its original state upon the next application of operating force
+with contact-driving member rotated step-wise in one direction
+with contact-driving member moved alternately in opposite directions
+the contact returning to its original state upon manual release of a latch (latch released by second push-button H01H0013680000)
+wherein the switch has more than two electrically distinguishable positions, e.g. multi-position push-button switches
+the operating member having only two positions
+having two operating members, one for opening and one for closing the same set of contacts (single operating member protruding from different sides of switch casing for alternate pushing upon opposite ends H01H0015220000)
+having a plurality of operating members associated with different sets of contacts, e.g. keyboard (mounting together a plurality of independent switches H02B)
+with contacts carried by or formed from layers in a multilayer structure, e.g. membrane switches
+characterised by spacers between contact carrying layers
+characterised by the layers, e.g. by their material or structure (H01H0013703000 takes precedence)
+characterised by construction, mounting or arrangement of operating parts, e.g. push-buttons or keys
+characterised by the arrangement of operating parts in relation to each other, e.g. pre-assembled groups of keys
+characterised by the mechanism between keys and layered keyboards
+characterised by springs, e.g. Euler springs
+in which all fixed and movable contacts are carried by insulating members (H01H0013705000 takes precedence)
+all of the insulating members being substantially flat
+in which each contact set includes a contact which is not secured to or part of a supporting layer, e.g. a snap dome (H01H0013705000 takes precedence)
+in which some or all of the movable contacts are formed in a single conductive plate, e.g. formed by punching sheet metal (H01H0013705000 takes precedence)
+wherein the switch has means for limiting the number of operating members that can concurrently be in the actuated position
+each contact set returning to its original state only upon actuation of another of the operating members
+wherein some or all of the operating members actuate different combinations of the contact sets, e.g. ten operating members actuating different combinations of four contact sets
+characterised by the contacts or the contact sites
+characterised by the material of the contacts, e.g. conductive polymers
+characterised by the form of the contacts, e.g. interspersed fingers or helical networks
+characterised by the manner of cooperation of the contacts, e.g. with both contacts movable or with bounceless contacts
+characterised by the switching function thereof, e.g. normally closed contacts or consecutive operation of contacts
+characterised by the spatial arrangement of the contact sites, e.g. superimposed sites
+characterised by electrical connections to external devices
+characterised by contact space venting means
+characterised by legends, e.g. Braille, liquid crystal displays, light emitting or optical elements
+characterised by ergonomic functions, e.g. for miniature keyboards; characterised by operational sensory functions, e.g. sound feedback (legends H01H0013830000)
+characterised by tactile feedback features
+characterised by the casing, e.g. sealed casings or casings reducible in size
+Processes specially adapted for manufacture of rectilinearly movable switches having a plurality of operating members associated with different sets of contacts, e.g. keyboards
+Switches having rectilinearly-movable operating part or parts adapted for actuation in opposite directions, e.g. slide switch
+Details
+Stationary parts; Contacts mounted thereon
+Movable parts; Contacts mounted thereon
+Contact arrangements for providing make-before-break operation, e.g. for on-load tap-changing
+Operating parts
+adapted for operation by a part of the human body other than the hand, e.g. by foot
+adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift
+Driving mechanisms
+acting with snap action
+with means for introducing a predetermined time delay
+having a single operating part protruding from different sides of switch casing for alternate actuation from opposite ends
+having a single operating part only protruding from one side of the switch casing for alternate pushing and pulling
+Switches having flexible operating part adapted only for pulling, e.g. cord, chain
+Details
+Stationary parts (guides H01H0017140000)
+Movable parts (guides H01H0017140000)
+Operating part, e.g. cord
+adapted for operation by a part of the human body other than the hand, e.g. by foot
+adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift
+Guiding means for flexible operating part
+having a single flexible operating part adapted for pulling at one end only
+secured to a part of the switch driving mechanism that has only angular movement
+the contact returning to its original state immediately upon removal of operating force
+the contact returning to its original state upon the next application of operating force
+secured to a part of the switch driving mechanism that has both angular and rectilinear motion
+having two flexible operating parts; having a single operating part adapted for pulling at both ends
+secured to a part or parts of the switch driving mechanism having only rectilinear motion
+secured to a part or parts of the switch driving mechanism having only angular motion
+Switches operated by an operating part which is rotatable about a longitudinal axis thereof and which is acted upon directly by a solid body external to the switch, e.g. by a hand
+Details
+Means for limiting the angle of rotation of the operating part
+Cases; Covers
+Dustproof, splashproof, drip-proof, waterproof, or flameproof casings
+Bases; Stationary contacts mounted thereon
+Movable parts; Contacts mounted thereon
+with indexing means
+Contact arrangements for providing make-before-break operation, e.g. for on-load tap-changing
+Operating parts, e.g. turn knob
+adapted for operation by a part of the human body other than the hand, e.g. by foot
+adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift
+Driving mechanisms allowing angular displacement of the operating part to be effective in either direction
+incorporating lost motion
+acting with snap action
+with means for introducing a predetermined time delay
+Driving mechanisms allowing angular displacement of the operating part to be effective or possible in only one direction
+incorporating lost motion
+acting with snap action
+with means for introducing a predetermined time delay
+the operating part having only two operative positions, e.g. relatively displaced by 180°
+Change-over switches
+having only axial contact pressure
+providing more than two electrically-different conditions, e.g. for closing either or both of two circuits
+having only axial contact pressure
+the operating part having three operative positions, e.g. off/star/delta
+having only axial contact pressure
+the operating part having four operative positions, e.g. off/two-in-series/one-only/two-in-parallel
+having only axial contact pressure
+the operating part having at least five or an unspecified number of operative positions
+Angularly-movable actuating part carrying contacts, e.g. drum switch
+having only axial contact pressure, e.g. disc switch, wafer switch
+Angularly-movable actuating part carrying no contacts
+Contacts actuated by radial cams
+Contacts actuated by axial cams
+Contacts actuated by rectilinearly-movable member linked to operating part, e.g. by pin and slot
+Encased switches adapted for ganged operation when assembled in a line with identical switches, e.g. stacked switches
+Switches operated by an operating part in the form of a pivotable member acted upon directly by a solid body, e.g. by a hand (tumbler or rocker switches H01H0023000000;switches having an operating part movable angularly in more than one plane H01H0025040000)
+Details
+Cases; Covers
+interlocked with operating mechanism
+Dustproof, splashproof, drip-proof, waterproof, or flameproof casings
+Casing of switch constituted by a handle serving a purpose other than the actuation of the switch
+Bases; Stationary contacts mounted thereon
+Means for increasing contact pressure
+Adaptation for built-in fuse
+Movable parts; Contacts mounted thereon
+Contact arrangements for providing make-before-break operation, e.g. for on-load tap-changing
+Operating parts, e.g. handle
+biased to return to original position upon removal of operating force
+adapted for operation by a part of the human body other than the hand, e.g. by foot
+adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift
+not biased to return to original position upon removal of operating force
+adapted for operation by a part of the human body other than the hand, e.g. by foot
+adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift
+Driving mechanisms
+incorporating lost motion
+having snap action
+produced by compression or extension of coil spring
+produced by flexing blade springs
+with two or more snap-action motions in succession
+incorporating a ratchet mechanism
+with indexing or latching means, e.g. indexing by ball and spring; with means to ensure stopping at intermediate operative positions
+with means for introducing a predetermined time delay
+Lever switches with blade-type contact co-operating with one or two spring-clip contacts, e.g. knife switch, sectionalisers
+making contact in one position only
+Change-over switches without stable intermediate position
+Change-over switches with stable intermediate position
+Switches with abutting contact carried by operating part, e.g. telegraph tapping key
+with intermediate position of rest
+Tumbler or rocker switches, i.e. switches characterised by being operated by rocking an operating member in the form of a rocker button
+Details
+Cases; Covers
+Dustproof, splashproof, drip-proof, waterproof, or flameproof casings
+Bases; Stationary contacts mounted thereon
+Adaptation for built-in fuse
+Movable parts; Contacts mounted thereon
+Tumblers
+Driving mechanisms
+incorporating lost motion
+having snap action
+with means for introducing a predetermined time delay
+with two operating positions
+one of which positions is unstable
+with three operating positions
+with stable centre position and one or both end positions unstable
+Switches with compound movement of handle or other operating part
+Operating part movable angularly in more than one plane, e.g. joystick
+Operating part movable both angularly and rectilinearly, the rectilinear movement being along the axis of angular movement
+Switches operated by a removable member, e.g. key, plug or plate; Switches operated by setting members according to a single predetermined combination out of several possible settings (combined with plug-and-socket connectors H01R0013700000;with current-carrying plug H01R0031080000)
+Insulating plug or plate inserted between normally-closed contacts
+Key inserted and then turned to effect operation of the switch
+wherein the key cannot be removed until the switch is returned to its original position
+Switch operated by setting members according to a single predetermined combination out of several possible settings
+Switches having at least one liquid contact (solid contacts wetted or soaked with mercury H01H0001080000)
+Details
+Contacts; Containers for liquid contacts
+Liquid contacts characterised by the material thereof
+Means for introducing a predetermined time delay
+by constricting the flow of the contact liquid
+Operating mechanisms adapted for operation by a part of the human body other than the hand, e.g. by foot
+Operating mechanisms adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift
+operated by dipping solid contact into stationary contact liquid
+with level of surface of contact liquid displaced by non-electrical contact-making plunger
+operated by tilting contact-liquid container
+wherein contact is made and broken between liquid and solid
+wherein contact is made and broken between liquid and liquid
+with level of surface of contact liquid displaced by centrifugal action
+with level of surface of contact liquid displaced by fluid pressure
+with level of surface of contact liquid displaced by expansion or evaporation thereof
+with contact made by a liquid jet, e.g. earthing switch with contact made by jet of water
+Air-break switches for high tension without arc-extinguishing or arc-preventing means (in combination with high tension or heavy-current switches with arc-extinguishing or arc-preventing means H01H0033000000)
+Details
+Interlocking mechanisms
+for interlocking between casing, cover, or protective shutter and mechanism for operating contacts
+for interlocking two or more parts of the mechanism for operating contacts
+for interlocking two or more switches
+Adaptation for built-in fuse
+with bridging contact that is not electrically connected to either line contact in open position of switch
+with angularly-movable bridging contact or contact-carrying member
