@@ -1,0 +1,1403 @@
+
+		§ What do you do with the mold? Do you need demineralised water (DI water)? Scaling problem? 
+			
+		§ What if it is humid/cloudy/rainy?ambient temperature,  pollution, wind velocity?
+			□ Nighttime radiative cooling in hot and humid climates - PDF
+			□ Effects of humidity, aerosol, and cloud on subambient radiative cooling - DOI
+			□ Performance limit of daytime radiative cooling in warm humid environment - PDF
+			□ TROPICAL HUMID | Sub-ambient radiative cooling under tropical climate using highly reflective polymeric coating DOI |Nighttime radiative cooling in hot and humid climates Link
+			□ Zhu Bin : Do you have measurement for W/m2 for this 
+				□ 
+				□ For radiative the weather is highly impacting (atmospheric window requirements) - water in cloud absorb mid-infrared
+				□ For TRE, evaporative cooling  | on rainy/cloudy day the radiative cooling reduced | Net cooling power matters
+				□ Cooling power of TRE: figure 3GH - a sunny day
+				□ 
+				□ Maybe it is in supplimimentary info
+			You dont need a lot of load when it is cloudy
+		What if it gets dust/dirt/scratches?
+			□ Dust on solar PV - DOI - PDF
+			□ Dust on solar heta collector - PDF - heating by 0.5–13.1 kWh/m2/year, while building annual coolingwas increased by 44.7–181.1 kWh/m2/year.
+			
+			The dust or dirt can effect of radiative cooling -for all radiative cooling - we are having research on and we have not yet published
+			
+		What are the limitations? What Zenith angle effect have you noticed?
+			No effect
+		Performance deterioration over time? What lifetime test available?
+			§ Durable radiative cooling against environmental aging - DOI
+			§ We have tested for 20 days - it is very important on radiative cooling
+			
+		Part to part variations of perfromance? Sensitivity to noise in production?
+			For upper layer- for large scale has no problem - for the aerogel for now is the production rate  , the feild is developing very fast - Cost of hydrogel or aerogel is not a problem, Aerogel is relatively cheap the production rate is low (Check method part in manuscript for detals)
+			
+			
+		Performance values need to be confirmed.
+			
+		Theoritical limit? Radiative cooling has theoretical limit value (~150 W m−2) - DOI | so at -5 degC bellow ambient we can idealy get 75W/M2 |    At day  25W/M2 and at night 60 W/M2  - DOI 
+			
+			
+			Theroritical limit - in a given tempreture - 150W/m2 is at room tempreture the net cooling power, - the highest is emissivity of 1 , in room temp is best 150 |In a real test we cannot reach 150, we cant eliminate the effect of conduction, -the atmosphere always has water, the power density is 100 W/m2 on clear day
+		Will hydrogel part have implications for Radiatice part
+			
+		
+			Has no effect on radiative performance the emisivity is very high in supplementry info, it is organic material and emisivity very high | the optical perfromance of hydrogel is good
+			
+			TRE - use of it in a setup , performance is better under the sunlight 
+		
+		
+		Hot water pannel - 2 years ago we asked them , pipes for hot water- for cooling the panel but it can work
+		
+		The substrate is heater - the pannel is aluminum foil |in real application we dont need this |the foil is there for data quality reduce disturn´bances
+		
+		
+		
+		Moguan Energy Coorporation   - Last year in August we wanna make tech to apply in real world - Im scientist for material research  | Want the material be commercialized and real use | real APPLICATION  
+		
+		2 scenario with and without aluminium foil
+		
+		Dimentions 20 cm by 20 cm
+		
+		Pillow designa nd plate design | 
+		
+		
+		Pillow HX : Omega
+		
+		About Zhu Bin from Nanjing
+			§ Has startup on Radiative Cooling
+			§ Our group, Prof. Jaro, graduate from Stanford univ  - we have Heating/cooling . Control Photothermal management - Strategy to controlheaating and 
+		
+	Opportunities
+		Bus stop to drop temp by 10 degrees in summer days
+		Functional roof (CoolShade) : Workshops with difficulty of keeping cool (Middle east & Africa)
+		Data centers (m ostly care about getting rid of heat and not much about ) - It must replace VCC altogether
+	Applications
+		○ POTENTIAL APPLICATIONS: The potential applications such as water cooling, space cooling, power plant condenser cooling, solar panel cooling and spacecraft cooling are described. 
+		○ The solution is location dependant.
+		○ Cooling electronics onboad communication network towers
+		○ Where do you see the application for use? 
+		For some applications:  when it is sunny you need to radiate a lot | Air conditioning application - sun load on glasses
+		
+	Questions
+		○ What if it is humid/cloudy/rainy?
+		○ What if it gets dust/dirt?
+		○ Performance deterioration over time?
+		○ Performance values need to be confirmed.
+		
+	External factors effect
+	Key Lessons
+		○ Radiative cooling has theoretical limit value (~150 W m−2) - DOI
+		○ 1 sqm of plate consumes 1kg of water in 3 hours to give 210w/m2
+	
+ 🔗Usefull links
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+
+_____________ "Science & Technology " _____________
+Fundamentals
+	Overview
+		The assessment is based on the evidence at hand from research papers & published data(
+		, 3M & PARC) and we can't rule out nor confirm the claims unless we test out to verify the cooling power & temperature gradient achieved.
+		This means total cooling effect of = 260 W/m2
+		Radiative cooling - Albedo of 0.97  
+		Technology: Dual mode optical film - using radiative cooling - using cold of space to cool down - actively sending heat out of atmosphere  
+		Approach: Using cold water circulated bellow 97% reflective of light rays panel  to reduce load on gas-cooler / condenser  
+		Development: Tech is 5-10 years away from widespread deployment  
+		According to our calculation: 
+			Assuming the "Emissivity = 0.1 " & "Absorptivity = 0.03" (Integral over the full spectrum of radiation wavelengths) the energy balance will lead to:
+			Dissipated radiation heat to space =  -315.63 W/m2
+			Absorbed heat through convection from ambient air =  23.71*2 W/m2
+			Absorbed radiation heat from sun(yearly average) =  7.64 W/m2
+		
+		
+	Potential implications for Refrigeration
+		REFRIGERATION Now:  
+		Current systems Remove heat from indoor and dissipate to ambient [Definition] 
+		Heat sink(thermal reservoir): Is a thermodynamic system with a heat capacity that is large enough that upon exchanging heat with anther system or its environment, its temperature remains effectively constant in other words, it is an infinite pool of thermal energy at constant temperature. [Definition] 
+		
+			
+		
+		
+	Earth energy budget
+		How earth energy budget looks like? [Definition] 
+		Incoming radiation : 340.4 W/m2 Total reflected: 99.9 W/m2 Total infrared leaving: 239.9 W/m2   Net absorbed: 0.6 W/m2 [Fact!] 
+		From 239.9 total outgoing infrared radiation,  Atmospheric window accounts for: 40.1 W/m2 [Fact!] 
+		From 239.9 total outgoing infrared radiation,  Atmospheric window accounts for: 40.1 W/m2 [Fact!] 
+		What if we could dissipate heat to space. [Insight!] 
+		
+		
+		https://aip.scitation.org/doi/10.1063/1.5087281
+		
+		
+		
+		
+		
+	Heat Island Effect
+			• IEA: There are an estimated 3.6 billion cooling appliances in use globally today, and that number is growing by up to 10 devices every second. [Fact!] 
+			• IEA: On top of that, higher outdoor temperatures will result in reduced efficiency of cooling equipment (see below). The net result of this urban heat factor is likely to play a major role in pushing up cooling use [Fact!] 
+			• According to projections, the urban share of the world population will grow to 6.419 billion (68%) by 2050 [Projection] 
+			• 
+			•  The current dissipation of heat to ambient create positive feedback loop leading to heat islands.
+			
+			
+		
+		
+	Radiative Cooler vs. Solar PV
+		It can already at this stage beats solar panels in performance :
+		Solar PV : Solar PV under 5 eq hours/day  gives: 36W [Fact!][Theoretical calculations] 
+		Example : Berlin as the location(Solar Atlas data), 25% Efficiency for PV module Global tilted irradiation at optimum angle = 4525.8 MJ/m2 Power of radiation then becomes = 4525e6/(36*24*3600) = 143.48 W/m2 Power converted to electricity(eta= 0.25) = 143.48 * 0.25 = 35.87 W/m2 (all year round average)
+		Radiative cooling: Compared to more than 100W radiative cooling [Claim!] 
+		vs.  
+		Data center energy saving from SkyCool in California = 1036 kWH/m2/year [Claim!] 
+		Total irradiation at optimum angle in Berling 1272 kWh/m2/year [Fact!]
+		If claims are true, then this panels beat solar panel in effectiveness for refrigeration application:  1- They run 24-7 all year & can contribute grid peak shaving 2- Gives more energy saving compared to PV at a lower cost [Insight!] 
+		Global Solar Atlas
+		
+		
+	Atmospheric window cooling | Therotical limit | Broadband vs. selective
+		
+		
+		Notice ideality in radiative cooling mean "0" Absorptivity/Emissivity in range out of atmospheric cooling window and Absorptivity/Emissivity "1" in range 8 to 13 µm | so at -5 degC bellow ambient we can idealy get 75W/M2 |    At day  25W/M2 and at night 60W/M2
+		
+		
+		
+		Absorption coeficient of gases in UV range
+		
+		
+		Absorbtion / emmisivity is equal at each given wavelenght dues to thermal equilibrium -by averaged accross differes cause the emmisivity is based on emission of black body while absorption is based on light source wavelenghts in this case sun |
+		Kirchhoff's law: {{\alpha _{\lambda }=\varepsilon _{\lambda }} |  
+		
+		
+		Absorption / Emissivity accross the range For Visible and IR 
+		
+		
+		Effect of zenith angle
+		
+		
+		• Wien displacement law 
+			
+			• 
+		• Quick summary overview
+			• 
+		• Sun is green
+			Unfortunately, "The sun is Green!" makes for more exciting headlines than, "The sun is white and would peak in the green if it were a perfect blackbody and if you measure in wavelength space." Although not as exciting, the ultimate truth is: the sun is white; its spectrum peaks in the violet in wavelength space, in the infrared in frequency space, and in the green according to the wavelength-space blackbody approximation.
+			Atmospheric window:A range of wavelengths over which there is relatively little absorption of radiation by atmospheric gases.
+			The major windows are the visible window, from ∼0.3 to ∼0.9 μm; the infrared window, from ∼8 to ∼13 μm;
+			The infrared window loses much of its transparency under very humid conditions due to continuum absorption by water vapor, and can become completely opaque when clouds are present.
+	Insulated Cooling + Radiative cooling
+		ICER - Radiative is limited
+		
+		MIT ICER - 9.3 degC bellow ambient in sunny vs. CNC one at 9.2degC
+		
+		Aerogel is 10X more expensive than conventional ones 
+			
+		Dehydrated Aerogel - - low thermal conductivity
+			Solid extremely light - it is like spoge 
+			95% empty space
+			PolyEthylene Aerogel (PEA) - is highly expenssive | Requires SLOWLY REMOVING SOLVENTS without comprimizing structure using CPD(Critical Point Drying) - this process is not scalable
+			
+			Used in supercapacitor and heat pumps
+			
+			Kemolo Freeze Drying : alternative to CPD
+			
+			Alternative
+				
+			
+		Hydrogel -  if hydrated later with water it becomes Hydrogel
+			With a single charge  of water can go 1 month in california and 4 days in dessert condition
+			
+		Cellulose Aerogel
+			Celulose nanocrystal uses Freeze drying - DOI (simillar to marshmellow)
+			 CNC is icecreame cone approch
+			Celulose is the most common BioPolymer on earth
+			
+		Anistropic cooling aerogel(ACA) using 3D printing , freeze drying still
+			Isotropic: metals, glass, ice alll directions property the same
+			Anisotrpic: wood, it is robust along fiber streched, compressed but poor on side forces or torsion
+			
+			
+			
+			
+		Aerogel commercialization : as a result of US SHEILD program . Transparent Aerogel were developed | Origin Global(Inner filled double glazed window - 40% saving potential) & Solar Innovation(Aeroel based glazing for roof)
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+
+____________________________________________
+
+Currently discussing with
+	A tandem radiative/evaporative cooler Passive cooling | DOI | #Radiative #Evaporative #HighPerfromance #WaterHarvesting #SelfSupply #AboveAmbientCooling  | #ShanhuiFan #Nanjing #Stanford # # | Bin & Jia are leading the research - 
+		TRE cooler enables a mean subambient cooling temperature of about 10°C, which is 8°C colder than that of the radiative cooler
+		In contrast, the cooling power realized by the TRE cooler (up to 200 to 240 W m−2) is nearly twice as much as that of the radiative cooler and also larger than the power density from evaporative cooling (~100 to 140 W m−2; the power difference between TRE cooler and radiative cooler according to Eq. 2, hereafter the same). 
+		
+		
+		Characterizations of the TRE cooler.
+		(A) Photographs of the front (top) and side (bottom) views for the TRE cooler. (B) Scanning electron microscopy (SEM) image of the top CA fibrous network. (C) Optical modeling reveals the reflective and scattering effects of the CA fibers. The color bar denotes scattering efficiency (scattering cross section divided by size). (D) SEM image of the bottom PVA-CaCl2 hydrogel. The microporous structure provides abundant moisture/vapor paths for moisture capture and water evaporation. (E and F) Moisture adsorption (at 25°C) and desorption (at 50°C) curves of the PVA-CaCl2 hydrogel over time under varied relative humidities (RH), respectively. (G) Water desorption curves of PVA-CaCl2 hydrogel without and with the CA fibrous network. The left right and top bottom axis scales are kept the same. The similar water desorption rates confirm the good moisture/vapor permeability of the CA fibrous network. Inset: Contact angle of 131° for the CA fibrous network, suggesting that it is hydrophobic. (H) Sunlight reflectivity (left axis, before the break) and mid-infrared emissivity (right axis, after the break) spectrums of the TRE cooler before and after moisture adsorption. Photo credit of (A): X.W., Nanjing University.
+		
+		
+		
+		
+		
+		
+		
+	
+Research
+	Tempreture range vs. Cooling power | RadiCold Systems(SkyCool competitor) - Colorado | Overview of all subambient | Radiative sky cooling: Fundamental principles, materials, and applications | DOI | #Thoeritical #Limits #BroadbandVsSelective # # | #Colorado #DongliangZhao #RuilingNingboChina #Nanjing #Wyoming #Gang Tan | 190416
+		
+		Broadband vs. Selective in Thermophotovoltaic systems - DOI
+			
+			
+		
+		
+		
+			
+		
+				
+			
+				
+			
+				
+			
+				
+			
+			5k with 70W/m2 , water flow rates of 0.2 l min−1 m−2| DOI | #5K70Wm2 #WaterFlow012LHM2 # # # | #SkyCool #Stanford #AaswathRaman #ShanhuiFan #EliAGoldstein | 170904 |
+	Radiative cooling & Evaporative cooling |  TRE cooler enables a mean subambient cooling temperature of about 10°C, up to 200 to 240 W m−2| Subambient and Above ambient | A tandem radiative/evaporative cooler Passive cooling | DOI | #Radiative #Evaporative #HighPerfromance #WaterHarvesting #SelfSupply #AboveAmbientCooling #CloudyvsSunny #Hydrogel1.28kg/m2Moisture  | #ShanhuiFan #Nanjing #Stanford # # |
+		Sub ambient 
+		
+		Fig. 3. Subambient cooling performance of the TRE cooler.
+		(A) Sectional schematic of the experimental setup used to demonstrate the cooling performance. The polyethylene (PE) film, windshield, and foam are used to minimize the impact of the surroundings. The holes on PE film are designed for vapor escape. (B) Cooling performances both on a clear day and a cloudy day are tested. Photographs of the clear (left) and cloudy (right) day during the performance tests. The orange lines highlight samples. (C to F) Cooling performance during (C and D) a clear day and (E and F) a cloudy day, respectively. (C and E) Environmental conditions (power of sunlight and ambient temperature) and temperature profiles of the two coolers. (D and F) Subambient cooling temperature (TAmbient – TSample) of the two coolers. The TRE cooler exhibits superior cooling performances for both clear and cloudy days, compared to the radiative cooler. (G) Ambient conditions of the cooling power test in (H). (H) Comparison in cooling power between a TRE cooler and a conventional radiative cooler. Photo credit of (B): D.L., Nanjing University.
+		
+		
+		Above ambient - Thermal load 200 W/m2  | Hydrogel 1.28kg/m2 water absorbed  from 6 PM to 10 AM 
+		
+		Fig. 5. Cooling performances in different climates.
+		(A to C) Photographs show the measurements of cooling performances in the (A) arid, (B) subhumid, and (C) humid climates, respectively. The ambient conditions during the cooling performance tests are written in white font. TAmb and RH represent ambient temperature and relative humidity, respectively (hereinafter inclusive). Scale bars, 20 cm. (D to F) According cooling power (top) and temperature under a thermal load (bottom) in the (D) arid, (E) subhumid, and (F) humid climates, respectively. In all the typical climate types on Earth, the TRE cooler realizes much better cooling performance compared with the radiative cooler. (G) Daylong working of the TRE cooler in the subhumid climate. The TRE cooler harvests moisture from 6:00 p.m. to next 10:00 a.m. and performs cooling from 10:00 a.m. to 6:00 p.m. The PVA-CaCl2 hydrogel captures 1.28 kg m−2 of water. The temperatures of the two coolers under a thermal load of ~200 W m−2 show that the TRE cooler enables continuously better cooling than the conventional radiative cooler throughout the entire period. Photo credit of (A) to (C): J.L. and X.W., Nanjing University.
+			
+			
+			
+			
+			
+			
+			
+			
+		
+	
+	
+	REREAD and Moved to Tech& Science TILL HERE
+	
+	Silver coating 93 W/m2 @ 0.2degC bellow ambient | Slightly subambient |  IR Emissivity 0.93Silver coated 93 W/m2 - Infrared Emissivity of 0.93 | DOI | #GlassPolymer #Performance # # # | #Colorado #YaoZhai # # # | 170209
+		
+		
+	Losses in convective heat transfer | 30% performance loss in 1 year |20 and 80 W/m2 on average with peaks at 120 W/m2|Radiative Heat Cool | DOI | # # # # # | #Lleida #RogerVila # # #  | 210915 |
+		
+		
+	Night time pwer generation   | DOI(50 mW/m2)  & DOI(100 mW/m2)| #PowerGeneration #PV #Nighttime #thermoelectric # | #Stanford #ShanhuiFan # # # | 
+		§ thermoelectric generator
+		§ We achieve 50 mW/m2 nighttime power generation with a clear night sky, with an open-circuit voltage of 100 mV, 
+		§ 
+		
+		§ 
+		§ 
+		
+		
+	Thermal insulation, evaporative & radiative cooling - PDF - DOI | #MIT  #ZhengmaoLu  #ArnyLeroy
+		Construction
+			The top layer is an aerogel, a material consisting mostly of air enclosed in the cavities of a sponge-like structure made of polyethylene. The material is highly insulating but freely allows both water vapour and infrared radiation to pass through.
+			
+			
+			Effect 1:  The evaporation of water (rising up from the layer below) provides some of the cooling power |Below the aerogel is a layer of hydrogel — another sponge-like material, but one whose pore spaces are filled with water rather than air.
+			
+			Effect 2: Radiative cooling | Below that, a mirror-like layer reflects any incoming sunlight that has reached it, sending it back up through the device rather than letting it heat up the materials and thus reducing their thermal load. |
+			REFLECTOR: top layer of aerogel, being a good insulator, is also highly solar-reflecting, limiting the amount of solar heating of the device, even under strong direct sunlight.
+		Performance
+			Evaporation
+			
+				
+			Achieving 9.3ºC of cooling. 
+			
+			
+			Dominating effect
+			
+			
+		Supporting document
+			Download : Download Acrobat PDF file (6MB)
+			Download : Download Acrobat PDF file (12MB)
+			
+	Optically selective and thermally insulating polyethylene aerogel  DOI | #MIT - #ZhengmaoLu - #ArnyLeroy
+		
+	Preserving Ice using eco-friendly cellulose acetate molecules |  #NNSFC #SkyCool #ShanhuiFan #Stanford |  DOI
+		
+		
+		
+		
+	Solar Cell cooling - 18,3K | DOI | # # # # # | #AaswathRaman #ShanhuiFan # # # |
+		 we show that the ideal scheme can passively lower its operating temperature by 18.3 K
+		1 K leads to a relative efficiency decline of about 0.45%
+		
+		
+		
+	Radiative dual-mode textile for human cooling/heating | DOI | #Clothing #Human #RadiativeHot&Cool #Comfort #Efficiency | #Stanford #ShanhuiFan # # # |
+		This can expand the thermal comfort zone by 6.5°C. Numerical fitting of the data further predicts 14.7°C of comfort zone expansion for dual-mode textiles with large emissivity contrast.
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	Solar Pannel Radiative cooling -  5.7 °C | DOI | #SolarPannel #PV #Cooling # # | #ShanhuiFan #Stanford # # # |
+		
+		
+	 Water harvesting radiative cooling  | DOI | #WaterHarvesting #RadiativeCooling #SolarPannel #Nighttime #Selfcleaning | #ShanhuiFan #Stanford #Manjing #DubaiWater&Elec # |
+		Weekly water generation for solar panels in Dubai can reach 261 mL/m2
+		enhanced up to 681 mL/m2 with further emissivity engineering. 
+		
+		
+		
+	Ultrabradband Photonic radiative cooling - How equilibrium works | DOI | #Performance #Ultrabroadband #RadiativeCooling # # | #AaswathRaman #ShanhuiFan #Stanford # # |
+		net cooling power in excess of 100 W/m2 at ambient temperature.
+		
+		
+		
+		 In Figure 2c, we plot Pnet(T) of our structure given Tamb = 300 K for various values of hc and both high32 and low4 (an average of 0.6) atmospheric transmittance. In both cases, significant cooling can still be achieved even for a value of hc = 12 W/m2 /K in which case the structure reaches an equilibrium temperature of T = 293 K and T = 296 K with cooling powers of 105 and 70 W/m2 at ambient, respectively. 
+		
+		
+	Polymer coating radiative cooling DOI | #Nanyang #ManPunWan
+		§ Achieving 5.7 °C below ambient during night-time with an effective cooling power of 54.4 W/m2
+		§ The average substrate-independent solar reflectance and infrared emittance within the 8 to 13 μm atmospheric window could reach 97% and 94.2%
+	Cool coat + Phase change DOI | #Nanyang #ManPunWan
+		PCM cool colored coating registered the largest annual energy saving of 8.5%  and a consistent monthly energy saving of 5–12% throughout the entire year in tropical Singapore
+	Near black infrared emitter - thermal coefficient of around 10 W m−2 K−1 | DOI | #NearBlackInfraredEmitter #HighPerfromance #Daytime # # | #ShanhuiFan #Stanford #CalTech # #Jun-long Kou |
+		achieves radiative cooling below ambient air temperature under direct sunlight (8.2 °C) and at night (8.4 °C). Its performance exceeds that of a multilayer thin film stack fabricated using vacuum deposition methods by nearly 3 °C. 
+		Average net cooling power of about 127 W m–2 during daytime at ambient temperature even considering the significant influence of external conduction and convection, more than twice that reported previously
+		The predicted steady-state temperature at zero net cooling power using the measured hcon = 10 W m−2 K−1 is 8.7 °C below ambient under direct sunlight
+		 For a cooler temperature of 300 K, case 1 achieves a cooling power density 158 W m−2 , 43 W m−2 higher than case 2.
+		
+		
+		
+	Silver coated 93 W/m2 - Infrared Emissivity of 0.93 | DOI | #GlassPolymer #Performance # # # | #Colorado #YaoZhai # # # | 170209
+		
+		
+		
+		
+		
+	PCM + Radiative Cooling - Tempreture activated | DOI | #PCM #TempretureDependant #SelfAdaptive # # | #ShanhuiFan #Stanford # # # |
+		
+		
+	TEG - Thermoelectic - Radiative cooling - Max 8 W/m2 | DOI | #TEG #Thermoelectric #Nighttime #PowerProduction # | #Stanford #ShanhuiFan # # # |
+		
+		
+	Radiative cooling of solar absorbers using a transparent photonic crystal thermal blackbody | DOI | #SolarAbsorbers #Photonic # # # | #AaswathRaman #ShanhuiFan #Stanford # # |
+		
+	Fundamental limit of light trapping in grating structures | DOI | #Review #LightTrapping # # # |  #AaswathRaman #ShanhuiFan #Stanford# # |
+	Overview -Market size - Reveiw - Stte of the art  | DOI | #MarketSize # # # # | #Colorado #Stanford #Wuhan #Wyoming # |
+		
+		
+		
+		
+		
+		
+		
+	Theoritical Limit | DOI | #Cooling24degC #Theoritical #Experimental # # | #ShanhuiFan #Stanford # # |
+		
+		
+		
+		
+		
+	Paint Radiative Cooling | DOI | #California #Stanford # # # | #JyotirmoyMandal #AaswathPRaman # # # |
+	4,9 DegC and 40,1 W/m2  | DOI | #Direct sunlight #40W/m2 #Performance #RadiativeCooling # | #AaswathPRaman #ShanhuiFan #Stanford #Skycool # |
+		Passive radiative cooling below ambient air temperature under direct sunlight | Most cited,  First to PoC ,4.9 degrees Celsius below ambient air temperature, and has a cooling power of 40.1 watts per square metre at ambient air temperature. 
+			□ Multi layered approach:
+				
+			□ The best of both - Black paint high transmisivity and high absorbtivity, Aluminum  high transmisivity and low absorbtivity(high reflectivity), 
+				® 
+	Meta Material | DOI META-MATERIAL | # # # # # | # # # # # |  |
+		
+	Radiative Heat Cool | DOI | # # # # # | #Lleida #RogerVila # # #  | 210915 |
+		
+		§ Adaptive covers for combined radiative cooling and solar heating. A review of existing technology and materials  & | Radiative cool & heat , polymer based high trasmissivity , lifetime issue | best for atmospheric window (Not much on reflectivity)
+		§ PARAMETERS: Ambient conditions and optical properties of materials play a role on the total performance 
+		§ Cooling rates:  (between 20 and 80 W/m2 on average with peaks at 120 W/m2) . 
+		§ LOSES: Total cooling rates are influenced by conduction and convection heat gains. 
+		§ TO BOOST PERFORMANCE: Use of convective barriers which separate the  emitting surface from the environment, cutting down convective heat exchanges [16] and enabling surface cooling below ambient temperature [17,18]. 
+		§ RADIATIVE COLECTOR & EMITTER :  it could achieve a minimum coverage of 25% of cooling and 75% of DHW | RCE Experimental
+		§ Why 3K ... Why not "0K"? Cosmic background temperatuire is 3K . Reason is even in dark places in space there coulb gases at thousands & millions degrees
+		
+			□ 
+		
+		§ Ideal optical properties: 
+			□ 
+			
+		§ Exchangeable adaptive cover : one for HEATING another for COOLING 
+			□ Others propose a rotating shaft 
+			□ 
+			
+			
+			Mixed radiative cooler and solar heater proposed by Liu et al. [22]. (a) Radiative cooling mode, (b) Solar heating mode and (c) rotating structure.
+			
+			□ Experimental data
+				® 
+				
+			□ LOW ABSORBTIVITY : 
+				® TiO2 [67] 0.12 μm     
+					◊ Transmisivity atmospheric 0.765 &solar0.61 
+					◊ Reflectivity atmospheric 0.765 &solar 0.381
+					◊ Absortivity atmospheric 0.063 &solar 0.009
+			□ Convective covers based on polymers
+				® LIFETIME & AGING:   33% loss of radiative cooling performance in 100 days under sun Egypt | Polymers are godd for Transmitance but poor in mechanical propertires 
+					◊ 
+					◊ Results showed that ZnS is the best pigment among the others to be used in selective covers [68–71].
+					◊ (Egypt). The transmittance of the film dropped 41.7%, from 0.72 to 0.42 after 100 days of outdoor exposition; the radiative cooling performance decreased a 33.3%.
+					◊ PE 5 year lifetime - Polymeric mesh for durable infra-red transparent convection shields: Applications in cool roofs and sky cooling | Polyethylene (PE) - High  black body transmittance
+			□ Non-polymeric convective covers
+				® Zinc crystals & Cadmium films
+		
+					
+					
+					
+					
+					
+			TRANSMITTANCES IN THE ATMOSPHERIC WINDOW:
+				
+				® 
+				
+	Corrosion resistance Infrared Refletor | DOI | #Corrossion #DurableCoating #InfraredReflector # # | #Changchun #ChaoquanHu # # # | 171222 |
+		§ New design for highly durable infrared-reflective coatings
+		The fundamental challenge in designing durable infrared-reflective coatings is achieving the ideal combination of both high reflectivity and durability. Satisfying these competing demands is traditionally achieved by deposition of durable layers on highly reflective metals. | alternative design approach of ‘first durability and then reflectivity’ to achieve the goal of both high durability and reflectivity. We recommend transition metal compounds, TMR (TM=Ti, Zr, Hf, V, Nb, Ta, Cr, Mo, W; R=B, C, N), as the durable base material and then improve its reflectivity to achieve the integration of high durability and reflectivity. 
+		hardness and acid and salt corrosion resistances are 27–50, 400–1 500 and 7 500–25 000 times that of aluminum
+		
+	Switchable Radiative Cooler and Solar Heater | DOI | #Switchable #CoolerHeater #RadiativeCooler #DynamicGlazing # | #Colorado #XinpengZhao  # # # | 220420 |
+		
+		§ Dynamic glazing with switchable solar reflectance for radiative cooling and solar heating | Current induced glazing change for radiative heating & cooling (RHC)
+		§ Graphical abstract: 
+			□ 
+		
+		§ Highlights
+			□ Reflectance-switchable glazing panel via reversible silver electrodeposition
+			□ Heating-mode glazing panel allows ∼70% of sunlight transmission in cold weather
+			□ Cooling-mode glazing panel achieves a net cooling power of 20–60 W/m2 in hot weather
+			□ Dynamic glazing panel can save up to ∼23% annual HVAC energy consumption
+		§ Changing the GLAZING: 
+		When a negative pulse voltage with a magnitude
+		of 2.5 V and a frequency of 7.0 kHz is applied (the current is around 11 mA)
+		§ 
+			□ Thermal radiative properties of the dynamic glazing panel in heating and cooling modes
+			□ 
+			□ Annual HVAC energy savings by installing the dynamic glazing panels as the transparent roof of a medium office building
+			
+			
+			
+	Radiative Heating and Cooling  | DOI | #CoolerHeater #WaterLoop # # # | #Stellenbosch  #GDJoubert # # # | 121101 |
+		§ Modelling and testing a passive night-sky radiation system | Thermal storage combined with radiative heating & cooling (RHC)
+			□ A natural circulation ex-perimental set-up was constructed and subsequently used to show that under local (Stellenbosch, South Africa) conditions the typical heat-removal rate from the water in the tank is 55 W/m2 of radiating panel during the night; during the day the water in the hot water-storage tank was heated from 24 °C to 62 °C at a rate of 96 W/m2. The system was also able to cool the room at a rate of 120 W/m3.
+			□ TEST SETUP:
+				® Figure 1a: Experimental set-up of the passive night-sky radiation system. Radiator area 3.75 m2, cold water tank 150 L, hot water tank 68 L, room 1.2 x 1.2 x 1.3 m.
+				® 
+		
+		
+		
+				® 
+			
+			□ Shifting the DUCK curve?
+				
+		
+		
+		
+	Whitest paint ever | DOI | #CoolingPaint #TitaniumDioxide #BASO4 # # | #Purdue # # # # |  |
+		
+			□ Three key differences between the white color paint and the new white paint developed by Purdue University :
+				® UV reflector: Titanium dioxide is commonly used in paints and it is good reflective of a visible light and infrared bench but it fails to reflect the UV and absorbs most of it so the materials that can reflect U are oxides carbonate and sulfates  (BaSO4 - Barium Sulfates)
+				® High concentration: Commercial planes they have 10% loading then we realized that we need 60% loading to achieve the reflection amount needed for generating the cooling effect and scatter sunlight
+				® Non-Uniform particle sizes: Can tentative take away we realized that we need to use particles of different size in it to reflect different wavelengths rather than just using the uniform particle 
+				® Search for good pair of filler and the polymer that have a good dispersion.
+			□ Next steps:
+				® Working with a large corporation for scale upe
+				® Currently working on Untying dust and high lifetime
+				® 2022 & 2023 - High demand from India due to heat island effect, dry and hot
+			
+		
+		§ Tackling Climate Change through Radiative Cooling
+			□ For the case of the reflective white paint, If we could cover 1-2 % of worlds surface area the global warming would cease.
+		
+		§ A polydimethylsiloxane-coated metal structure for all-day radiative cooling
+			□ Temperature reductions of 9.5 °C and 11.0 °C were demonstrated in the laboratory and an outside environment, respectively, with an average cooling power of ~120 W m–2 for the thin film thermal emitter.
+			
+		
+		§ A structural polymer for highly efficient all-day passive radiative cooling
+			□ This hierarchically porous array PMMA film exhibits sufficiently high solar reflectance (0.95) and superior longwave infrared thermal emittance (0.98) and realizes subambient cooling of ~8.2 °C during the night and ~6.0 °C to ~8.9 °C during midday with an average cooling power of ~85 W/m2 under solar intensity of ~900 W/m2, and promisingly ~5.5 °C even under solar intensity of ~930 W/m2 and relative humidity of ~64% in hot and moist climate. 
+			□ 
+	 Cheap plastic film cools whatever it touches up to 10°C| DOI | #CheapPlastic #10kCooling # # # | # # # # # |  |
+		
+				A thin plastic sheet  .The film, made from transparent plastic embedded with tiny glass spheres, absorbs almost no visible light, yet pulls in heat from any surface it touches. Already, the new material, when combined with a mirrorlike silver film, has been shown to cool whatever it sits on by as much as 10°C.
+				Large-scale polymer sheets are commercially available for <$0.25/m2, and roll-to-roll processing of radiative films has been estimated at $0.25 to $0.50  per square meter
+				
+		
+	Ultrawhite BaSO4 Paints and Films for Remarkable Daytime Subambient Radiative Cooling Ultrawhite BaSO4Paints | DOI | # # # # # | # # # # # |  |
+		
+		§ Worlds whitest paint: 98.1% reflection
+		§ Cooling power of 107 W/m2
+		§ Made of BaSO4, 
+		§ Costs 0.44$/m2
+	Effect of Temperature | DOI | # # # # # | # # # # # |  |
+		
+	human skin temperature by 2.3 °C,  20% saving on indoor cooling | DOI | #SkinCooling #For Indoor # # # |  #ShanhuiFan #Stanford # # |
+		
+	Nano processed silk Radiative cooling | DOI | #SkinCooling #NanoProcessedSilk # # # | #ShanhuiFan #Stanford  #BinZhu # # |
+		
+	-3k day -5k night ,  | DOI | #PolymerFilm #RadiativeCooling #Scalable #SelectiveWavelength # | #DuoLi #Nanjing #Stanford #ShanhuiFan # |201116 |
+		
+	Energy Entropy - radiative cooling fundamentals | DOI | #Fundamentals #Thoery # PhotonicsThermodynamics # # | #Stanford #ShanhuiFan #Changchun #WeiLi # | 220207 |
+		
+	Vacuum Subfreezing, -37 average with 0 W/m2 | DOI | #Vacuum #Subzero #35k #RadiativeCooling # |#Stanford #ZhenChen  #AaswathRaman #ShanhuiFan # | 161213 |
+		§ Radiative cooling to deep sub-freezing temperatures through a 24-h day-night cycle.
+		§ Here we theoretically show that ultra-large temperature reduction for as much as 60 C from ambient is achievable by using a selective thermal emitter and by eliminating parasitic thermal load,
+		§ Experimentally demonstrate a temperature reduction that far exceeds previous works. In a populous area at sea level, we have achieved an average temperature reduction of 37 C from the ambient air temperature through a 24-h day–night cycle, with a maximal reduction of 42 C that occurs when the experimental set-up enclosing the emitter is exposed to peak solar irradiance.
+		§ 
+		§ 
+		§ A 
+		§ 
+		
+		
+		(a) Energy balance applied to the radiative emitter (dashed line). The net flux (Qnet) is determined by the outgoing flux from the emission of the sample (Qsample), and the two incoming fluxes from the emission of the atmosphere (Qatm) and the parasitic heat losses (Qparasitic) characterized by a heat transfer coefficient h. (b) Three emitters are considered: a black emitter (black line), a near-ideal selective emitter (green line) and the actual selective emitter (blue line in Fig. 3b) of this work. (c) Net flux (Qnet) as a function of the temperature of the sample (Tsample). Note that the calculation is based on a typical atmospheric transmittance at Stanford in winter (grey line in Fig. 3b). The key parameter is the steady-state temperature corresponding to Qnet=0. The analysis highlights the two key ingredients to achieve large temperature reduction below ambient: selectivity of the emitter and minimization of the parasitic heat loss. The performance of the actual selective emitter (blue) designed and tested in this work is also predicted.
+		
+		With vacuum chamber and optimized | (a) Schematic of the experimental set-up. The key feature is to minimize parasitic heat losses of convection and air conduction using a vacuum system. Radiation shields and long-hollow ceramic pegs are exploited to further reduce the radiation and conduction losses through the backside of the selective emitter. The shinny sun-shade and mirror-cone are used to minimize solar irradiance. ZnSe is selected for its transparency in the mid-infrared wavelength range (red line in Fig. 3b). (b) In situ experimental set-up. (c) Details of the vacuum chamber, including the selective emitter and the ZnSe window.
+		
+		
+		(a) Cross-sectional scanning electron microscope image. (b) Spectral emissivity of the selective emitter (blue), measured using Fourier transform infrared spectroscopy and averaged over both polarizations, aligns very well with the atmospheric transmittance (grey). The ZnSe window (red) also confirmed to be transparent throughout the atmospheric transparency window. For clarity, here only show results along normal direction.
+		
+		
+		
+		(a) Large temperature reduction below ambient through radiative cooling in a 24-h day–night cycle. After pumping down to 10−5 Torr, the selective emitter rapidly cools down to ∼40 °C below ambient temperature within half hour. A maximal cooling of 42.2 °C synchronizes with the peak of the solar irradiance, confirming the function of the sun-shade and the mirror-cone (Fig. 2), and also highlighting the high contrast between the ambient temperature and the dew point during this period. (b) Comparison with theoretical models: temperature reduction, ΔT, as a function of dew point, with the ambient temperature fixed at Tambient=16±1 °C. (c) ΔT as a function of ambient temperature, with the dew point fixed at Tdew-point=3±1 °C. Shaded areas, grey for near-black emitter and blue for selective emitter, represent the uncertainties of the model resulting from the uncertainties in estimating the parasitic heat losses and the absorption of the diffuse solar irradiance (for details, see Supplementary Notes 1 and 5). The error bar represents a conservative estimate on the sensitivity of our K-type thermocouples and the uncertainty in interpolating the dew point from a weather station at Stanford. Results in (b,c) underline a guideline to achieve large temperature reduction through radiative cooling: selective emitter with low dew point and high ambient temperature.
+		
+	Sub-ambient non-evaporative fluid cooling with the sky | 5k with 70W/m2 , water flow rates of 0.2 l min−1 m−2| DOI | #5K70Wm2 #WaterFlow012LHM2 # # # | #SkyCool #Stanford #AaswathRaman #ShanhuiFan #EliAGoldstein | 170904 |
+		Over three days of testing, we show that the panels cool water up to 5 DEGC below the ambient air temperature at water flow rates of 0.2 l min m2, corresponding to an EFFctive heat rejection flux of up to 70Wm2. 
+			□ 2.5 DEGC under greater than 700Wm2 SOLAR IRRIDIANCE
+			□ 
+			
+			
+			
+		
+	Accurate quantification of Radiative Cooling | DOI & DOI| #Fundamental #AccurateCalculation  #TempretureCorrection # # | #Princeton #JyotirmoyMandal #Stanford #AaswathRaman # | 210818 |
+		Here, we show that use of the approximation can lead to > 10% underestimation of the cooling potential relative to MODTRAN 6 outputs.
+	 Simulation Dynamically tuning the thermal emissivity of interior building surfaces | DOI | AnsysSimulation #RoomCooling #RadiativeCooling # # # | #UCLA  #Stanford #AaswathRaman# # |  |
+			
+		
+			
+	2K 54.4W/m2 , Reflectance and emittance of  97% and 94.2% #Stanford #AaswathRaman | DOI  Link| #Tropical #RadiativeCooling #2K54Wm2  # # | #Nanyang #DiHan # #Caltech #AaswathRaman  # | 220615 |
+		
+		Fig. 4. Micro-structure and optical properties of BP coating. (a) SEM image of BP coating. Inset is optical image of the sample and particle size distribution. (b) FDTD simulation of scattering efficiency of BaSO4 particles with diameter from 0.2 to 2 μm. (c) Measured spectral reflectivity of BP coating within 0.3–20 μm (Background is AM1 solar spectrum [45] (yellow) and atmospheric window (blue)). Inset is infrared image of the sample wrapped around fingers (The sample is partially in contact with the fingers). The colour of contacting part from IR view is almost the same as other fingers, which indicates high infrared emission compared with bare skin radiation.
+		
+		
+	Microclimatic effect of Cool Coating  | DOI | #CoolCoating # # # # |#Nanyang  #ManPunWan # # # # # |  |
+		
+	Double skin roof model & experiment  |   DOI & DOI | # # # # # | #Nanyang  #ManPunWan # # # |  |
+	Passive radiative cooling  |DOI | # # # # # | #Nanyang  #ManPunWan # |  |
+		
+	Modeling cool HT in Tropical |   DOI & DOI & DOI - Urban Canopy  | # # # # # |  #Nanyang  #ManPunWan # # # |  |
+		
+	Hierarchical-morphology metafabric for scalable passive daytime radiative cooling | DOI | # # # # # | #WuhanHuazhong #ShaoningZang # # # |  |
+		
+	Hierarchical-morphology metafabric for scalable passive daytime radiative cooling | DOI | #Textile #RadiativeCooling #4,8degC #Emissivity94.5%Reflectivity92.4% # | #HuazhongWuhan #Shaoning Zeng # Zhejiang Hangzhou #Sijie Pian # # |  |
+		
+	Passive directional sub-ambient daytime radiative cooling | DOI | #6degC45Wm2 #IRTransparentPolyethylene #PollishedAluminiumDisk #LowCost # | #MIT #BikramBhatia #ArnyLeroy # # |  |
+		
+		
+	Passive daytime radiative cooling: Fundamentals, material designs, and applications | DOI & PDF| #Fundamentals #PDRC # # # | #CentralSouthChangsha #MeijieChen #ColumbiaNY #YuanYang # | 201030 |
+		
+		
+		
+	Progress of passive daytime radiative cooling technologies towards commercial applications | DOI | #Commercial #PDRC #HeatInsulation # # | #Beijing #YanCui # # # | 210804 |
+		
+	A review of clear sky radiative cooling developments and applications in renewable power systems and passive building cooling | DOI | #SelectivePhotonicPlasmonicEmitter  # # # # | #SouthFlorida #MehdiZeyghami # # # | 180501 |
+		
+	Cooling potential and applications prospects of passive radiative cooling in buildings: The current state-of-the-art | DOI | #SotA #PRC #ApplicationNTrends # # | #TongjiShanghai #XingLuPengXu # # # | 161101 |
+		
+	Review on passive daytime radiative cooling: Fundamentals, recent researches, challenges and opportunities | DOI | #PorouisPolymer #MultiLayerStructure # # # | #VaranasiIndia #JayPrakashBijarniya # # # | 201101 |
+		§ POTENTIAL APPLICATIONS: The potential applications such as water cooling, space cooling, power plant condenser cooling, solar panel cooling and spacecraft cooling are described. 
+		§ ENVIRONMENTAL FACTORS: ambient temperature, cloud cover, moisture, pollution, wind velocity on radiative cooling performances are also discussed.
+	Radiative sky cooling: Fundamental principles, materials, and applications | DOI | #Thoeritical #Limits # # # | #Colorado #DongliangZhao #RuilingNingboChina #Nanjing #Wyoming #Gang Tan | 190416 |
+		Ts-Tamb vs. W/m2
+		
+		Net RC at 700W/m2
+		
+		Successful demostration of Daytime Radiative cooling 
+		
+		
+		RadiCold
+		
+		
+	 | DOI | # # # # # | # # # # # |  |
+		
+		
+	Radiative cooling for energy sustainability: Materials, systems, and applications | DOI | # # # # # | # # # # # |  |
+	High-Performance Transparent Radiative Cooler Designed by Quantum Computing - PDF | DOI | # # # # # | # # # # # |  |
+		
+	  Preliminary thermal analysis of a combined photovoltaic–photothermic–nocturnal radiative cooling system| PV with RC  | DOI | # # # # # | # # # # # |  |
+		
+	 | DOI | # # # # # | # # # # # |  |
+		
+	 | DOI | # # # # # | # # # # # |  |
+		
+	 | DOI | # # # # # | # # # # # |  |
+		
+	 | DOI | # # # # # | # # # # # |  |
+	 | DOI | # # # # # | # # # # # |  |
+		
+	 | DOI | # # # # # | # # # # # |  |
+	 | DOI | # # # # # | # # # # # |  |
+		
+	 | DOI | # # # # # | # # # # # |  |
+		
+		
+	🗃 Archive 
+			Man Pun Wan
+				Metalic grating passive radiative cooling DOI
+				Roof color   economic impact DOI
+			Alexander M van Herk
+				Photo Thermo responsive DOI
+		
+		
+		
+Test on 3M
+	Test 3M Solfilm Prestige 40 Exterior - 
+		
+		221026 - Laptop on back cover - with temp sensor 
+			Sample image: 
+				
+			
+			 COM6
+				13:51:05.192 -> 27.34 | Covering initiated 3M Prestige 40 covered 
+				14:10:42.597 -> 26.63 | Still covered
+				14:18:45.645 -> 26.57 | Still covered
+				14:43:55.254 -> 25.92 | Still covered
+				15:10:55.466 -> 26.32 | Still covered
+				15:32:03.466 -> 26.10 | Still covered, Facing window
+				21:00:07.553 -> 23.50 | Still covered, Facing window
+				00:00:05.471 -> 23.45 | Still covered, Facing window
+				03:00:03.417 -> 23.43 | Still covered, Facing window
+				06:00:01.360 -> 22.96 | Still covered, Facing window
+				13:24:48.165 | No cover open air sample, Facing window
+				15:06:53.640 | sensor attached on not covered window
+				
+			COM7
+				13:51:12.412 -> 28.37 | No cover open air sample
+				14:10:47.912 -> 27.53 | No cover open air sample
+				14:18:50.197 -> 27.46 | No cover open air sample
+				14:43:57.281 -> 26.73 | No cover open air sample
+				15:10:54.859 -> 27.15 | No cover open air sample
+				15:32:10.845 -> 26.82 | No cover open air sample, Facing window
+				21:00:03.148 -> 23.39 | No cover open air sample, Facing window
+				00:00:03.812 -> 23.39 | No cover open air sample, Facing window
+				03:00:04.492 -> 23.39 | No cover open air sample, Facing window
+				06:00:05.178 -> 22.90 | No cover open air sample, Facing window
+				13:24:48.165 | 3M Covered, Facing window
+				15:06:53.640 | 3M on window and sensor 
+				
+			Ambient
+				13:51:12.412 -> 23.00
+				14:10:47.912 -> 23.00
+				14:18:45.645 -> 23.00
+				14:43:55.254 -> 22.00
+				15:10:55.466 -> 23.00
+				15:32:03.466 -> 22.00
+				21:00:03.148 -> 20.00
+				00:00:05.471 -> 20.00
+				03:00:03.417 -> 20.00
+				06:00:01.360 -> 20.00
+				13:24:48.165 |  3M Covered, Facing window
+				15:06:53.640 | 3
+				
+				
+				
+				
+				
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+Patent
+	Skycool
+		Emissivity & Reflectivity - Lens - Lens - PDF -  PDF - #ACTIVE 
+			Emissivity of at least 0.8 in spectral range of 5 μm to 15 um, an ultraviolet reflectivity of at least 0.5 in the spectral range of 275 nm to 375 nm, an ultraviolet absorptivity of at least 0.75 in the spectral range of 275 nm to 375 nm.
+			
+		Emissivity & Reflectivity - Lens - PDF -  #ACTIVE 
+			Emissivity of at least 0.8 in spectral range of 5 μm to 15 μm, an ultraviolet reflectivity of at least 0.5 in the spectral range of 275 nm to 375 nm, an ultraviolet absorptivity of at least 0.75 in the spectral range of 275 nm to 375 nm
+		Patent from Skycool and Nanyang Singapore Uni
+			US_2020_0208854_A1
+		Other patents
+			US_2020_0333047_A1
+			US_2021_0219463_A1
+			
+		
+	3M
+		85% reflectance 350nm to 2500nm| Lens #Pending #3M
+			optical layers comprises a fluoropolymer
+			 | at least 0.15 absorbance 8 to 13 micro meter 
+			outer layer at least partially covering the reflector and comprising an array of inorganic particles effective D90 particle size of at most 40 micrometers.
+			
+			
+			
+			
+			
+			
+			
+		WO 21
+			
+			WO_2021_144714_A1
+			
+		US 2022/0221235 A1 - Lens
+			§ reflective microporous layer, wherein the reflective microporous layer comprises a first fluoropolymer
+			§ Diffusely reflective of electromagnetic radiation over a majority of wavelengths in the range of 400 to 2500 nanometers
+			§ antisoiling layer has an outwardly facing antisoiling surface opposite the reflective microporous layer.
+		US 2021/0018713 A1 - Lens
+			average reflectance of at least 85% in a first wavelength range from 0.35 to 2.5 micrometers and comprising at least one optical layer; and
+			an outer layer at least partially covering the reflector and having an absorbance of at least 0.15 in a second wavelength range from 8 to 13 micrometers, wherein the outer layer comprises a fluoropolymer.
+			
+		
+		
+	RadiCold
+		Cooling Plastics - Website
+			
+		Performance
+			
+			
+		Contant
+			CEO Dr. Ronggui Yang through email: ronggui@gmail.com
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+_________________ " Commercial " _________________
+Film
+	3M - Link
+		Relevant products
+			3M™ Automotive Window Film Ceramic IR Series - Link
+				Performance
+					
+				Table guide & Terms to know
+					TSER – Total Solar Energy Rejection
+					The percentage of total solar energy rejected by filmed glass. The higher this value, the less solar heat is transmitted.
+					
+					VLT – Visible Light Transmitted
+					The percentage of visible light that passes directly through filmed glass: the higher the number, the lighter the film.
+					
+					Ultraviolet Rejection
+					The percentage of ultraviolet (UV) light that is rejected by the filmed glass. UV light contributes to the fading and deterioration of fabrics and leather.
+					
+					IRR – Infrared Rejection**
+					The percentage of solar infrared energy rejection over the wavelength range from 900-1,000 nm. Infrared rays are primarily responsible for the heat you feel when driving.
+					
+					 
+					IRER – Infrared Energy Rejection***
+					The percent of solar infrared energy rejection over the wavelength range from 780–2,500 nm. IRER takes into account the transmitted and absorbed IR energy that will be reradiated into a car.
+					
+					 
+					Glare Reduction
+					The percentage by which visible light is reduced by the addition of film. Data shown is the estimated performance of film applied to ¼” (6mm) thick, 73% VLT automotive green glass. Data is for reference only.
+					
+					NOTE: Auto tint laws vary by state or province. Please check your local laws or ask your dealer installer for films that meet your local tint laws.
+					
+					Limited Lifetime Warranty: Sold and installed by professional 3M Authorized Dealer Installers and backed by a limited lifetime warranty.
+					
+					Data should be used as a reference tool for net VLT on ¼” (6mm) thick, automotive green glass of 73% VLT, and testing is in accordance to ANSI/NFRC 200 Procedure.
+					
+					*All-metal film may interfere with electronic or mobile phone signal.
+					
+					**IRR - Percent of solar infrared energy in the 900 – 1,000 nm wavelength range that is rejected by the film. Measurement is made of film with liner alone (i.e. no glass).
+					
+					***IRER – Percent of solar infrared energy that is rejected over the wavelength range from 780 – 2,500 nm. IRER takes into account the transmitted and absorbed IR energy that will be reradiated into a car.
+				
+			3M™ Automotive Window Film Black Chrome Series - Link
+				Performance
+					
+				
+			3M™ Automotive Window Film Crystalline Series - Link
+				Performance
+					
+				
+					
+				
+				Table guide & Terms to know
+					Rejects up to 64% of solar energy and up to 99% of heat-generating infrared rays* to help cool the vehicle by 47°F (26°C) without running the air conditioning
+					Features a proprietary, multilayer optical film (MOF) with nano-technology that combines over 200 layers in a film that is thinner than a Post it® Note | Reject heat, not looks. 3M™ Automotive Window Film Crystalline Series is a non-metallized film
+					
+					*TSER – Total Solar Energy Rejection; The percentage of total solar energy rejected by filmed glass. The higher this value, the less solar heat is transmitted.
+					 **IRR - Percent of solar infrared energy in the 900 – 1,000 nm wavelength range that is rejected by the film. Measurement is made of film with liner alone (i.e., no glass).
+					+IRER – Percent of solar infrared energy that is rejected over the wavelength range from 780 – 2,500 nm. IRER takes into account the transmitted and absorbed IR energy that will be reradiated into a car. Data shown is for the performance of film applied to glass.
+					^Data shown is the estimated performance of film applied to ¼” (6mm) thick, 73% VLT automotive green glass. Data is for reference only.
+				Spec
+					
+				Catalog
+					According to some news, SkyCool use 3M as material supplier
+					3M : reducing temperature of the car by 26 deg C
+					Product Support
+					Specific product and application questions Product Support(866) 499-8857
+					
+					
+				
+				
+		3m order - 221003
+			Good morning,
+			
+			This is Vahid from Danfoss Climate Solutions.
+			As part of ESG initiative we are looking ways to reduce energy consumption in buildings by covering some of the facades with materials that can help us decrease the solar radiation heat over warmer months. 
+			Was wondering where we can purchase few rolls of Crystalline series - CR 40 for our headquarters office in Nordborg.
+			
+			Looking forward to your reply,
+			BR, Vahid
+			
+			
+			Good fil with long waranbtee Prestine film 20sq meter - 20kdkk on bigger scale it gets cheaper per  | stress for the windows | Skylight or office  | not glass we are 
+			Michael@solfilm.dk  email and descreption the sample we can send but crystaline fil
+			Cost of 3M Crystalline Window Tint
+			This window tint uses multi-layered nanotechnology, which is the same technology that is utilized to make flat panel LCD TVs brighter. The following are average costs for this tint:
+			$500 for 3 windows, which is a 2-door truck
+			$560 for 5 windows, which is a 4-door truck
+			SUV (7 windows): $640
+			
+			
+			
+			
+			Typical costs:
+			
+			Automotive window tinting can cost $50-$600 or more using standard, non-reflective tint film, and $100-$800 or more with high-performance ceramic, carbon, metallic, colored or other specialty tinting films, depending on the make, model and type of vehicle. Curved or steep rear windows are more difficult to tint, and will cost more.
+			For example, tinting the windows of a passenger car typically costs $100-$600, depending on the type of tint film and the make and model of vehicle. CostHelper readers report paying $125-$300 for car window tinting, at an average cost of $194; and at A-1 Window Tinting[1] in Frankfort, KY, it costs $120 for a two-door car and $135 for a four-door car.
+			Expect to pay $50-$500 or more to tint the windows of a pickup, depending on the type of film and if there is a slider window. CostHelper readers report paying $53-$225 to tint truck windows, with an average of $131; and All American Window Tinting[2] in Denver, CO charges $140 and up for standard tinting on a typical pickup, and $450 and up for its highest quality tint film.
+			It can cost $200-$800 or more for window tinting on a wagon, SUV, crossover or minivan, depending on the type of tint film, as well as the size and number of windows. For example, VanHorn Tint and Accessories[3] in Bloomington, IN, charges $225 for a station wagon, $250 for a minivan, $275 for a full-size van and $250 for an SUV.
+			
+			https://www.youtube.com/c/FlexFilmPlus
+			
+			
+			Nanoflex 20 dis not spin
+			
+		
+		
+		
+			
+			
+		
+				
+			Tesla AC
+				
+		
+	SkyCool
+		Data centers
+			 22 deg C temperature difference on a clear sunny day.
+			100W/m2 cooling effect
+			Technology: Dual mode optical film - using radiative cooling - using cold of space to cool down - actively sending heat out of atmosphere
+			Approach:Using cold water circulated bellow 97% reflective of light rays panel  to reduce load on gas-cooler / condenser
+			And in a data center:
+				Data center result show 300W/m2 cooling with 7 deg C temperature difference. (daily average)
+			
+		Field data on ice machines
+			Field data show 25% energy saving for ice machines
+			Radiative article 
+			
+		Potential 
+				
+			
+			
+		ARPA
+			
+			§ ARPA: The estimated electricity savings for refrigeration applications is 500 to 600 kWh/m2 of panel/year, 2x-3x the electricity generated from solar. | Calculations of W/m2 ==> 600kWh/m2 /365/24 =0.068 kWh of electricity saved  |now assuming COP of 3 this would give 200 W/m2 (Not bad if thats the yearly average)
+		2 products 
+			
+			
+			2023 is planned release date, 
+		Locations installed:
+			
+			
+			Stockon CA
+			
+		Supermarkets are ideal
+			
+			
+		Further cooling market
+			
+			
+		Competitors
+			
+			§ 
+		Team members   Bloomberg Video
+			
+			§ 
+		
+			
+		
+		
+		2 products 
+		Locations installed:
+		Supermarkets are ideal
+		Further cooling market:
+		Competitors
+		Team members
+		Bloomberg Video
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+Paint
+	Xerox
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	CityU
+		Passive radiative cooling paint (PRCP) 
+			https://www.cityu.edu.hk/kto/industry/find-new-opportunities-our-ip-portal/energy-free-low-cost-and-high-cooling-performance
+			YouTube
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	PARC. a Xerox company self cooling paint
+		• 
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+Own Designs
+	Radiative heater and cooler
+		
+	Sun Shade Radiative Cooler
+		
+		
+		
+	As subcooler - Only way makes sense is direct cooling elimination need for VCC OR eliminate the condensor(Highly unlikely)
+		
+	Radiative cooler and heater
+		# Main - Decoupled - Radiative simultaneous Heat and cool.pdf
+		
+		
+		
+		
+		
+	Data center
+		45 to 35 degC
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+Payback Time - Energy Saving
+	Subcooler
+		Assumptions
+			Reducing discharge pressure by 5 k subccoling tempreture -  e.g. In case of E:10 to C:40 the saving would be 5% on energy. 15kj/kg saving
+			 
+		How much energy AC use
+			Yearly  -  EIA, Total energy used | assumption is 200days 10 hours @ 5 kWh  at 0.14$/kWh | yearly  |1400$/year | 5% of that would be 70 $/year saving potential
+		Payback time
+			At 350W /m2 the amount of m2 needed is  
+		Subcooler competition - Numbers dont ADD UP
+			T_Approach on condensor - 15 k worse, they can be 8k for CO2 gascooler | ormal cond with 12K DT is 200€ for 5 KW system (OEM sales price) | an extra HX to bring it down to 5K is 50€
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		13:50:45.058 -> 36.50, 27.42, 44.00, 23.00
+		3M Solfilm Prestige 40 applied on COM 6 - Arduino Uno + HIH8121 + DHT11(ambient refrence)
+		
+		
+	
+
+_________________ " ... " _________________
+A
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		13:50:45.058 -> 36.50, 27.42, 44.00, 23.00
+		3M Solfilm Prestige 40 applied on COM 6 - Arduino Uno + HIH8121 + DHT11(ambient refrence)
+		
+		
+	
+__________________" Refrences"_________________
+ℹ Refrences
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+__________________" Archive "__________________
+🗃 Archive
+	Not used
+		
+			Recent Progress in Daytime Radiative Cooling: Advanced Material Designs and Applications
+			Radiative cooling: Fundamental physics, atmospheric influences, materials and structural engineering, applications and beyond
+			This paper investigates, theoretically, the temperature dependence of the performance of solar cells in the
+			The Persian ice house, or how to make ice in the desert - Field Study of the World | First observed example of using this was by Persion ad Egyptions Ref: Source: Real Clear Science: How People Created Ice inthe Desert 2,000 Years Ago, July, 2018.
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+_____________________________________________
+Background
+	Overview
+		The assessment is based on the evidence at hand from research papers & published data(
+		, 3M & PARC) and we can't rule out nor confirm the claims unless we test out to verify the cooling power & temperature gradient achieved.
+		According to our calculation: 
+			Assuming the "Emissivity = 0.1 " & "Absorptivity = 0.03" (Integral over the full spectrum of radiation wavelengths) the energy balance will lead to:
+			Dissipated radiation heat to space =  -315.63 W/m2
+			Absorbed heat through convection from ambient air =  23.71*2 W/m2
+			Absorbed radiation heat from sun(yearly average) =  7.64 W/m2
+		This means total cooling effect of = 260 W/m2
+		Radiative cooling - Albedo of 0.97  
+		Technology: Dual mode optical film - using radiative cooling - using cold of space to cool down - actively sending heat out of atmosphere  
+		Approach: Using cold water circulated bellow 97% reflective of light rays panel  to reduce load on gas-cooler / condenser  
+		Development: Tech is 5-10 years away from widespread deployment  
+		
+		
+	Potential implications for Refrigeration
+		REFRIGERATION Now:  
+		Current systems Remove heat from indoor and dissipate to ambient [Definition] 
+		Heat sink(thermal reservoir): Is a thermodynamic system with a heat capacity that is large enough that upon exchanging heat with anther system or its environment, its temperature remains effectively constant in other words, it is an infinite pool of thermal energy at constant temperature. [Definition] 
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+	Earth energy budget
+		Earth energy budget:
+			How earth energy budget looks like? [Definition] 
+			Incoming radiation : 340.4 W/m2 Total reflected: 99.9 W/m2 Total infrared leaving: 239.9 W/m2   Net absorbed: 0.6 W/m2 [Fact!] 
+			From 239.9 total outgoing infrared radiation,  Atmospheric window accounts for: 40.1 W/m2 [Fact!] 
+			From 239.9 total outgoing infrared radiation,  Atmospheric window accounts for: 40.1 W/m2 [Fact!] 
+			What if we could dissipate heat to space. [Insight!] 
+			
+		
+		
+	Heat Island Effect
+			• IEA: There are an estimated 3.6 billion cooling appliances in use globally today, and that number is growing by up to 10 devices every second. [Fact!] 
+			• IEA: On top of that, higher outdoor temperatures will result in reduced efficiency of cooling equipment (see below). The net result of this urban heat factor is likely to play a major role in pushing up cooling use [Fact!] 
+			• According to projections, the urban share of the world population will grow to 6.419 billion (68%) by 2050 [Projection] 
+			• 
+			•  The current dissipation of heat to ambient create positive feedback loop leading to heat islands.
+			
+			
+		
+		
+	Potential 
+			
+		
+		
+	Radiative Cooler vs. Solar PV
+		It can already at this stage beats solar panels in performance :
+		Solar PV : Solar PV under 5 eq hours/day  gives: 36W [Fact!][Theoretical calculations] 
+		Example : Berlin as the location(Solar Atlas data), 25% Efficiency for PV module Global tilted irradiation at optimum angle = 4525.8 MJ/m2 Power of radiation then becomes = 4525e6/(36*24*3600) = 143.48 W/m2 Power converted to electricity(eta= 0.25) = 143.48 * 0.25 = 35.87 W/m2 (all year round average)
+		Radiative cooling: Compared to more than 100W radiative cooling [Claim!] 
+		vs.  
+		Data center energy saving from SkyCool in California = 1036 kWH/m2/year [Claim!] 
+		Total irradiation at optimum angle in Berling 1272 kWh/m2/year [Fact!]
+		If claims are true, then this panels beat solar panel in effectiveness for refrigeration application:  1- They run 24-7 all year & can contribute grid peak shaving 2- Gives more energy saving compared to PV at a lower cost [Insight!] 
+		Global Solar Atlas
+		
+		
+Definitions
+	Atmospheric window cooling
+		
+		
+		• 
+		https://www.learnpick.in/userfiles/resources_conversion_files/presentation_statistical6-planck_radiation_formula_1517247626_277498-6.jpg
+		Unfortunately, "The sun is Green!" makes for more exciting headlines than, "The sun is white and would peak in the green if it were a perfect blackbody and if you measure in wavelength space." Although not as exciting, the ultimate truth is: the sun is white; its spectrum peaks in the violet in wavelength space, in the infrared in frequency space, and in the green according to the wavelength-space blackbody approximation.
+		Atmospheric window:A range of wavelengths over which there is relatively little absorption of radiation by atmospheric gases.
+		The major windows are the visible window, from ∼0.3 to ∼0.9 μm; the infrared window, from ∼8 to ∼13 μm;
+		The infrared window loses much of its transparency under very humid conditions due to continuum absorption by water vapor, and can become completely opaque when clouds are present.
